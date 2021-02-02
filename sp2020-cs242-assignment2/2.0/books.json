@@ -1,0 +1,2538 @@
+{
+    "Clean Code: A Handbook of Agile Software Craftsmanship": {
+        "book_url": "https://www.goodreads.com/book/show/3735293-clean-code",
+        "book_title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg",
+        "book_id": "7d77845b-c0a0-438f-aa49-a338f7cda323",
+        "book_isbn": "9780132350884",
+        "author_url": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
+        "author_name": "Robert C. Martin",
+        "all_authors": [
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            }
+        ],
+        "book_rating": 4.4,
+        "book_rating_num": 13452,
+        "book_review_num": 805,
+        "similar_books_link": "https://www.goodreads.com/book/similar/3779106-clean-code-a-handbook-of-agile-software-craftsmanship-robert-c-martin?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "Head First Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns"
+            },
+            {
+                "name": "Code Complete",
+                "URL": "https://www.goodreads.com/book/show/4845.Code_Complete"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Effective Java Programming Language Guide",
+                "URL": "https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+                "URL": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+            },
+            {
+                "name": "Patterns of Enterprise Application Architecture",
+                "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+            },
+            {
+                "name": "The Software Craftsman: Professionalism, Pragmatism, Pride",
+                "URL": "https://www.goodreads.com/book/show/23215733-the-software-craftsman"
+            },
+            {
+                "name": "The Art of Unit Testing: With Examples in .NET",
+                "URL": "https://www.goodreads.com/book/show/6487349-the-art-of-unit-testing"
+            },
+            {
+                "name": "Growing Object-Oriented Software, Guided by Tests",
+                "URL": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests"
+            },
+            {
+                "name": "The Mythical Man-Month: Essays on Software Engineering",
+                "URL": "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month"
+            },
+            {
+                "name": "JavaScript: The Good Parts",
+                "URL": "https://www.goodreads.com/book/show/2998152-javascript"
+            },
+            {
+                "name": "Java Concurrency in Practice",
+                "URL": "https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice"
+            },
+            {
+                "name": "Refactoring to Patterns",
+                "URL": "https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns"
+            },
+            {
+                "name": "The Passionate Programmer",
+                "URL": "https://www.goodreads.com/book/show/6399113-the-passionate-programmer"
+            },
+            {
+                "name": "Building Microservices: Designing Fine-Grained Systems",
+                "URL": "https://www.goodreads.com/book/show/22512931-building-microservices"
+            },
+            {
+                "name": "Implementing Domain-Driven Design",
+                "URL": "https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design"
+            },
+            {
+                "name": "Designing Data-Intensive Applications",
+                "URL": "https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions",
+                "URL": "https://www.goodreads.com/book/show/85012.Enterprise_Integration_Patterns"
+            },
+            {
+                "name": "Soft Skills: The Software Developer's Life Manual",
+                "URL": "https://www.goodreads.com/book/show/23232941-soft-skills"
+            },
+            {
+                "name": "Domain-Driven Design Distilled",
+                "URL": "https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled"
+            },
+            {
+                "name": "Thinking in Java",
+                "URL": "https://www.goodreads.com/book/show/71672.Thinking_in_Java"
+            },
+            {
+                "name": "Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)",
+                "URL": "https://www.goodreads.com/book/show/1069827.Release_It_"
+            },
+            {
+                "name": "Head First Java",
+                "URL": "https://www.goodreads.com/book/show/231262.Head_First_Java"
+            },
+            {
+                "name": "The C Programming Language",
+                "URL": "https://www.goodreads.com/book/show/515601.The_C_Programming_Language"
+            },
+            {
+                "name": "Dependency Injection in .NET",
+                "URL": "https://www.goodreads.com/book/show/9407722-dependency-injection-in-net"
+            }
+        ]
+    },
+    "Macromedia Director MX 2004 Bible [With CDROM]": {
+        "book_url": "https://www.goodreads.com/book/show/131570.Macromedia_Director_MX_2004_Bible_With_CDROM_",
+        "book_title": "Macromedia Director MX 2004 Bible [With CDROM]",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349092820l/131570.jpg",
+        "book_id": "bf2562e2-3d96-412b-98af-ae34e767c5b0",
+        "book_isbn": "9780764569906",
+        "author_url": "https://www.goodreads.com/author/show/27254.Brian_Underdahl",
+        "author_name": "Brian Underdahl",
+        "all_authors": [
+            {
+                "name": "Brian Underdahl",
+                "URL": "https://www.goodreads.com/author/show/27254.Brian_Underdahl"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            }
+        ],
+        "book_rating": 2.86,
+        "book_rating_num": 7,
+        "book_review_num": 0,
+        "similar_books_link": "",
+        "similar_books": []
+    },
+    "Clean Agile: Back to Basics": {
+        "book_url": "https://www.goodreads.com/book/show/45280021-clean-agile",
+        "book_title": "Clean Agile: Back to Basics",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568477691l/45280021._SX318_.jpg",
+        "book_id": "e3040359-1812-4f66-9bd6-a307c1e03d2f",
+        "book_isbn": "9780135781869",
+        "author_url": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
+        "author_name": "Robert C. Martin",
+        "all_authors": [
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            }
+        ],
+        "book_rating": 4.31,
+        "book_rating_num": 228,
+        "book_review_num": 39,
+        "similar_books_link": "https://www.goodreads.com/book/similar/69991697-clean-agile-back-to-basics?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Clean Agile: Back to Basics",
+                "URL": "https://www.goodreads.com/book/show/45280021-clean-agile"
+            },
+            {
+                "name": "The Unicorn Project",
+                "URL": "https://www.goodreads.com/book/show/44333183-the-unicorn-project"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
+                "URL": "https://www.goodreads.com/book/show/44135420-team-topologies"
+            },
+            {
+                "name": "Accelerate: Building and Scaling High-Performing Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/35747076-accelerate"
+            },
+            {
+                "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+                "URL": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career",
+                "URL": "https://www.goodreads.com/book/show/44770129-ultralearning"
+            },
+            {
+                "name": "Humble Pi: A Comedy of Maths Errors",
+                "URL": "https://www.goodreads.com/book/show/39074550-humble-pi"
+            },
+            {
+                "name": "Head First Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns"
+            },
+            {
+                "name": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+                "URL": "https://www.goodreads.com/book/show/17255186-the-phoenix-project"
+            },
+            {
+                "name": "Patterns of Enterprise Application Architecture",
+                "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+            },
+            {
+                "name": "Becoming a Technical Leader: An Organic Problem-Solving Approach",
+                "URL": "https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader"
+            },
+            {
+                "name": "The Software Craftsman: Professionalism, Pragmatism, Pride",
+                "URL": "https://www.goodreads.com/book/show/23215733-the-software-craftsman"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+                "URL": "https://www.goodreads.com/book/show/33369254-the-manager-s-path"
+            },
+            {
+                "name": "The Mythical Man-Month: Essays on Software Engineering",
+                "URL": "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month"
+            },
+            {
+                "name": "UNIX: A History and a Memoir",
+                "URL": "https://www.goodreads.com/book/show/48518642-unix"
+            },
+            {
+                "name": "Thinking in Systems: A Primer",
+                "URL": "https://www.goodreads.com/book/show/3828902-thinking-in-systems"
+            },
+            {
+                "name": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/26083308-the-devops-handbook"
+            },
+            {
+                "name": "Microservice Patterns",
+                "URL": "https://www.goodreads.com/book/show/34372564-microservice-patterns"
+            },
+            {
+                "name": "Rethinking Agile: Why Agile Teams Have Nothing To Do With Business Agility",
+                "URL": "https://www.goodreads.com/book/show/43291865-rethinking-agile"
+            },
+            {
+                "name": "JavaScript: The Good Parts",
+                "URL": "https://www.goodreads.com/book/show/2998152-javascript"
+            },
+            {
+                "name": "Building Microservices: Designing Fine-Grained Systems",
+                "URL": "https://www.goodreads.com/book/show/22512931-building-microservices"
+            },
+            {
+                "name": "Domain-Driven Design Distilled",
+                "URL": "https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled"
+            },
+            {
+                "name": "The Burning White (Lightbringer, #5)",
+                "URL": "https://www.goodreads.com/book/show/30169100-the-burning-white"
+            },
+            {
+                "name": "Measure What Matters",
+                "URL": "https://www.goodreads.com/book/show/39286958-measure-what-matters"
+            },
+            {
+                "name": "User Stories Applied: For Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/3856.User_Stories_Applied"
+            }
+        ]
+    },
+    "Pattern Languages of Program Design 3": {
+        "book_url": "https://www.goodreads.com/book/show/79774.Pattern_Languages_of_Program_Design_3",
+        "book_title": "Pattern Languages of Program Design 3",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389659680l/79774.jpg",
+        "book_id": "fde039c3-3317-47ef-a112-11e9a8aef4f8",
+        "book_isbn": "9780201310115",
+        "author_url": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
+        "author_name": "Robert C. Martin",
+        "all_authors": [
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Frank Buschmann",
+                "URL": "https://www.goodreads.com/author/show/45370.Frank_Buschmann"
+            }
+        ],
+        "book_rating": 3.52,
+        "book_rating_num": 23,
+        "book_review_num": 3,
+        "similar_books_link": "/book/shelves/79774.Pattern_Languages_of_Program_Design_3?page=1&per_page=10000",
+        "similar_books": []
+    },
+    "Test Driven Development: By Example": {
+        "book_url": "https://www.goodreads.com/book/show/387190.Test_Driven_Development",
+        "book_title": "Test Driven Development: By Example",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372039943l/387190.jpg",
+        "book_id": "28568f55-3888-4a83-937d-e4295e2b6e52",
+        "book_isbn": "9780321146533",
+        "author_url": "https://www.goodreads.com/author/show/25211.Kent_Beck",
+        "author_name": "Kent Beck",
+        "all_authors": [
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.com/author/show/25211.Kent_Beck"
+            }
+        ],
+        "book_rating": 4.07,
+        "book_rating_num": 3394,
+        "book_review_num": 154,
+        "similar_books_link": "https://www.goodreads.com/book/similar/376827-test-driven-development-by-example?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+                "URL": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+            },
+            {
+                "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+                "URL": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+            },
+            {
+                "name": "Head First Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "Clean Architecture",
+                "URL": "https://www.goodreads.com/book/show/18043011-clean-architecture"
+            },
+            {
+                "name": "Patterns of Enterprise Application Architecture",
+                "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+            },
+            {
+                "name": "Refactoring to Patterns",
+                "URL": "https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns"
+            },
+            {
+                "name": "Effective Java Programming Language Guide",
+                "URL": "https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide"
+            },
+            {
+                "name": "Agile Software Development, Principles, Patterns, and Practices",
+                "URL": "https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices"
+            },
+            {
+                "name": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+                "URL": "https://www.goodreads.com/book/show/8686650-continuous-delivery"
+            },
+            {
+                "name": "Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)",
+                "URL": "https://www.goodreads.com/book/show/1069827.Release_It_"
+            },
+            {
+                "name": "The Passionate Programmer",
+                "URL": "https://www.goodreads.com/book/show/6399113-the-passionate-programmer"
+            },
+            {
+                "name": "Implementing Domain-Driven Design",
+                "URL": "https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design"
+            },
+            {
+                "name": "Pragmatic Thinking and Learning: Refactor Your Wetware",
+                "URL": "https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning"
+            },
+            {
+                "name": "Code Complete",
+                "URL": "https://www.goodreads.com/book/show/4845.Code_Complete"
+            },
+            {
+                "name": "Kanban and Scrum - Making the Most of Both",
+                "URL": "https://www.goodreads.com/book/show/8167480-kanban-and-scrum---making-the-most-of-both"
+            },
+            {
+                "name": "Coders at Work: Reflections on the Craft of Programming",
+                "URL": "https://www.goodreads.com/book/show/6713575-coders-at-work"
+            },
+            {
+                "name": "Clean Agile: Back to Basics",
+                "URL": "https://www.goodreads.com/book/show/45280021-clean-agile"
+            },
+            {
+                "name": "The Software Craftsman: Professionalism, Pragmatism, Pride",
+                "URL": "https://www.goodreads.com/book/show/23215733-the-software-craftsman"
+            },
+            {
+                "name": "Practices of an Agile Developer: Working in the Real World",
+                "URL": "https://www.goodreads.com/book/show/4102.Practices_of_an_Agile_Developer"
+            },
+            {
+                "name": "Management 3.0: Leading Agile Developers, Developing Agile Leaders",
+                "URL": "https://www.goodreads.com/book/show/10210821-management-3-0"
+            },
+            {
+                "name": "Agile Principles, Patterns, and Practices in C#",
+                "URL": "https://www.goodreads.com/book/show/84983.Agile_Principles_Patterns_and_Practices_in_C_"
+            },
+            {
+                "name": "Agile Estimating and Planning",
+                "URL": "https://www.goodreads.com/book/show/9267.Agile_Estimating_and_Planning"
+            },
+            {
+                "name": "The Art of Unit Testing: With Examples in .NET",
+                "URL": "https://www.goodreads.com/book/show/6487349-the-art-of-unit-testing"
+            },
+            {
+                "name": "Kanban: Successful Evolutionary Change for Your Technology Business",
+                "URL": "https://www.goodreads.com/book/show/8086552-kanban"
+            },
+            {
+                "name": "JavaScript: The Good Parts",
+                "URL": "https://www.goodreads.com/book/show/2998152-javascript"
+            }
+        ]
+    },
+    "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win": {
+        "book_url": "https://www.goodreads.com/book/show/17255186-the-phoenix-project",
+        "book_title": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361113128l/17255186.jpg",
+        "book_id": "21b63ca8-83b5-44f6-8f4a-f232161f4c92",
+        "book_isbn": "9780988262591",
+        "author_url": "https://www.goodreads.com/author/show/328437.Gene_Kim",
+        "author_name": "Gene Kim",
+        "all_authors": [
+            {
+                "name": "Gene Kim",
+                "URL": "https://www.goodreads.com/author/show/328437.Gene_Kim"
+            },
+            {
+                "name": "Kevin Behr",
+                "URL": "https://www.goodreads.com/author/show/328439.Kevin_Behr"
+            },
+            {
+                "name": "George Spafford",
+                "URL": "https://www.goodreads.com/author/show/328438.George_Spafford"
+            }
+        ],
+        "book_rating": 4.27,
+        "book_rating_num": 24904,
+        "book_review_num": 2358,
+        "similar_books_link": "https://www.goodreads.com/book/similar/23848838-the-phoenix-project-a-novel-about-it-devops-and-helping-your-business?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+                "URL": "https://www.goodreads.com/book/show/17255186-the-phoenix-project"
+            },
+            {
+                "name": "Accelerate: Building and Scaling High-Performing Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/35747076-accelerate"
+            },
+            {
+                "name": "The Goal: A Process of Ongoing Improvement",
+                "URL": "https://www.goodreads.com/book/show/113934.The_Goal"
+            },
+            {
+                "name": "Making Work Visible: Exposing Time Theft to Optimize Work & flow",
+                "URL": "https://www.goodreads.com/book/show/36458712-making-work-visible"
+            },
+            {
+                "name": "Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework",
+                "URL": "https://www.goodreads.com/book/show/40679042-project-to-product"
+            },
+            {
+                "name": "Beyond the Goal: Eliyahu Goldratt Speaks on the Theory of Constraints",
+                "URL": "https://www.goodreads.com/book/show/172800.Beyond_the_Goal"
+            },
+            {
+                "name": "Scrum: The Art of Doing Twice the Work in Half the Time",
+                "URL": "https://www.goodreads.com/book/show/19288230-scrum"
+            },
+            {
+                "name": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
+                "URL": "https://www.goodreads.com/book/show/44135420-team-topologies"
+            },
+            {
+                "name": "An Elegant Puzzle: Systems of Engineering Management",
+                "URL": "https://www.goodreads.com/book/show/45303387-an-elegant-puzzle"
+            },
+            {
+                "name": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+                "URL": "https://www.goodreads.com/book/show/8686650-continuous-delivery"
+            },
+            {
+                "name": "Building Microservices: Designing Fine-Grained Systems",
+                "URL": "https://www.goodreads.com/book/show/22512931-building-microservices"
+            },
+            {
+                "name": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+                "URL": "https://www.goodreads.com/book/show/33369254-the-manager-s-path"
+            },
+            {
+                "name": "The Five Dysfunctions of a Team: A Leadership Fable",
+                "URL": "https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team"
+            },
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "A Seat at the Table",
+                "URL": "https://www.goodreads.com/book/show/34416720-a-seat-at-the-table"
+            },
+            {
+                "name": "Site Reliability Engineering: How Google Runs Production Systems",
+                "URL": "https://www.goodreads.com/book/show/27968891-site-reliability-engineering"
+            },
+            {
+                "name": "The Visible Ops Handbook: Starting ITIL in 4 Practical Steps",
+                "URL": "https://www.goodreads.com/book/show/605506.The_Visible_Ops_Handbook"
+            },
+            {
+                "name": "The Mythical Man-Month: Essays on Software Engineering",
+                "URL": "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month"
+            },
+            {
+                "name": "Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)",
+                "URL": "https://www.goodreads.com/book/show/1069827.Release_It_"
+            },
+            {
+                "name": "Turn the Ship Around!: A True Story of Turning Followers into Leaders",
+                "URL": "https://www.goodreads.com/book/show/16158601-turn-the-ship-around"
+            },
+            {
+                "name": "Measure What Matters",
+                "URL": "https://www.goodreads.com/book/show/39286958-measure-what-matters"
+            },
+            {
+                "name": "Value Stream Mapping: How to Visualize Work Flow and Align People for Organizational Transformation: Using Lean Business Practices to Transform Office and Service Environments",
+                "URL": "https://www.goodreads.com/book/show/17718225-value-stream-mapping"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "Peopleware: Productive Projects and Teams",
+                "URL": "https://www.goodreads.com/book/show/67825.Peopleware"
+            },
+            {
+                "name": "Clean Agile: Back to Basics",
+                "URL": "https://www.goodreads.com/book/show/45280021-clean-agile"
+            },
+            {
+                "name": "Personal Kanban: Mapping Work | Navigating Life",
+                "URL": "https://www.goodreads.com/book/show/10419045-personal-kanban"
+            },
+            {
+                "name": "Leading the Transformation: Applying Agile and DevOps Principles at Scale",
+                "URL": "https://www.goodreads.com/book/show/26050453-leading-the-transformation"
+            },
+            {
+                "name": "Clean Architecture",
+                "URL": "https://www.goodreads.com/book/show/18043011-clean-architecture"
+            },
+            {
+                "name": "Designing Data-Intensive Applications",
+                "URL": "https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"
+            },
+            {
+                "name": "A Philosophy of Software Design",
+                "URL": "https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design"
+            },
+            {
+                "name": "Managing Humans: Biting and Humorous Tales of a Software Engineering Manager",
+                "URL": "https://www.goodreads.com/book/show/1317946.Managing_Humans"
+            }
+        ]
+    },
+    "Soft Skills: The Software Developer's Life Manual": {
+        "book_url": "https://www.goodreads.com/book/show/23232941-soft-skills",
+        "book_title": "Soft Skills: The Software Developer's Life Manual",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180921l/23232941.jpg",
+        "book_id": "5f754f68-f9e4-4572-88ed-64b437abc22e",
+        "book_isbn": "",
+        "author_url": "https://www.goodreads.com/author/show/8565253.John_Z_Sonmez",
+        "author_name": "John Z. Sonmez",
+        "all_authors": [
+            {
+                "name": "John Z. Sonmez",
+                "URL": "https://www.goodreads.com/author/show/8565253.John_Z_Sonmez"
+            }
+        ],
+        "book_rating": 3.9,
+        "book_rating_num": 2023,
+        "book_review_num": 266,
+        "similar_books_link": "https://www.goodreads.com/book/similar/42774892-soft-skills-the-software-developer-s-life-manual?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Soft Skills: The Software Developer's Life Manual",
+                "URL": "https://www.goodreads.com/book/show/23232941-soft-skills"
+            },
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+                "URL": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "Clean Architecture",
+                "URL": "https://www.goodreads.com/book/show/18043011-clean-architecture"
+            },
+            {
+                "name": "Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People",
+                "URL": "https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio"
+            },
+            {
+                "name": "Secrets of the JavaScript Ninja",
+                "URL": "https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja"
+            },
+            {
+                "name": "Head First Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns"
+            },
+            {
+                "name": "JavaScript: The Good Parts",
+                "URL": "https://www.goodreads.com/book/show/2998152-javascript"
+            },
+            {
+                "name": "Code Complete",
+                "URL": "https://www.goodreads.com/book/show/4845.Code_Complete"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "Cracking the Coding Interview: 150 Programming Questions and Solutions",
+                "URL": "https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview"
+            },
+            {
+                "name": "The Software Craftsman: Professionalism, Pragmatism, Pride",
+                "URL": "https://www.goodreads.com/book/show/23215733-the-software-craftsman"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "Patterns of Enterprise Application Architecture",
+                "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+            },
+            {
+                "name": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+                "URL": "https://www.goodreads.com/book/show/17255186-the-phoenix-project"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Algorithms to Live By: The Computer Science of Human Decisions",
+                "URL": "https://www.goodreads.com/book/show/25666050-algorithms-to-live-by"
+            },
+            {
+                "name": "The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact",
+                "URL": "https://www.goodreads.com/book/show/25238425-the-effective-engineer"
+            },
+            {
+                "name": "Pragmatic Thinking and Learning: Refactor Your Wetware",
+                "URL": "https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning"
+            },
+            {
+                "name": "Pro Git",
+                "URL": "https://www.goodreads.com/book/show/6518085-pro-git"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "The Mythical Man-Month: Essays on Software Engineering",
+                "URL": "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month"
+            },
+            {
+                "name": "Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career",
+                "URL": "https://www.goodreads.com/book/show/44770129-ultralearning"
+            },
+            {
+                "name": "Programming Pearls",
+                "URL": "https://www.goodreads.com/book/show/52084.Programming_Pearls"
+            },
+            {
+                "name": "Effective Java Programming Language Guide",
+                "URL": "https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide"
+            },
+            {
+                "name": "The Passionate Programmer",
+                "URL": "https://www.goodreads.com/book/show/6399113-the-passionate-programmer"
+            },
+            {
+                "name": "So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love",
+                "URL": "https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"
+            },
+            {
+                "name": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+                "URL": "https://www.goodreads.com/book/show/33369254-the-manager-s-path"
+            },
+            {
+                "name": "Accelerate: Building and Scaling High-Performing Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/35747076-accelerate"
+            },
+            {
+                "name": "Building Microservices: Designing Fine-Grained Systems",
+                "URL": "https://www.goodreads.com/book/show/22512931-building-microservices"
+            }
+        ]
+    },
+    "Domain-Driven Design: Tackling Complexity in the Heart of Software": {
+        "book_url": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design",
+        "book_title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287493789l/179133.jpg",
+        "book_id": "3a336633-dcb5-4cd1-b0dc-500712f18f8a",
+        "book_isbn": "9780321125217",
+        "author_url": "https://www.goodreads.com/author/show/104368.Eric_Evans",
+        "author_name": "Eric Evans",
+        "all_authors": [
+            {
+                "name": "Eric Evans",
+                "URL": "https://www.goodreads.com/author/show/104368.Eric_Evans"
+            }
+        ],
+        "book_rating": 4.15,
+        "book_rating_num": 3858,
+        "book_review_num": 175,
+        "similar_books_link": "https://www.goodreads.com/book/similar/173058-domain-driven-design-tackling-complexity-in-the-heart-of-software?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+                "URL": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+            },
+            {
+                "name": "Patterns of Enterprise Application Architecture",
+                "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Implementing Domain-Driven Design",
+                "URL": "https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design"
+            },
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "Growing Object-Oriented Software, Guided by Tests",
+                "URL": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests"
+            },
+            {
+                "name": "Domain-Driven Design Distilled",
+                "URL": "https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled"
+            },
+            {
+                "name": "Clean Architecture",
+                "URL": "https://www.goodreads.com/book/show/18043011-clean-architecture"
+            },
+            {
+                "name": "Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)",
+                "URL": "https://www.goodreads.com/book/show/1069827.Release_It_"
+            },
+            {
+                "name": "Building Microservices: Designing Fine-Grained Systems",
+                "URL": "https://www.goodreads.com/book/show/22512931-building-microservices"
+            },
+            {
+                "name": "Refactoring to Patterns",
+                "URL": "https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+                "URL": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+            },
+            {
+                "name": "Head First Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns"
+            },
+            {
+                "name": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+                "URL": "https://www.goodreads.com/book/show/8686650-continuous-delivery"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "The Passionate Programmer",
+                "URL": "https://www.goodreads.com/book/show/6399113-the-passionate-programmer"
+            },
+            {
+                "name": "Effective Java Programming Language Guide",
+                "URL": "https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide"
+            },
+            {
+                "name": "Pragmatic Thinking and Learning: Refactor Your Wetware",
+                "URL": "https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning"
+            },
+            {
+                "name": "Java Concurrency in Practice",
+                "URL": "https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice"
+            },
+            {
+                "name": "Designing Data-Intensive Applications",
+                "URL": "https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"
+            },
+            {
+                "name": "The Mythical Man-Month: Essays on Software Engineering",
+                "URL": "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month"
+            },
+            {
+                "name": "Building Evolutionary Architectures: Support Constant Change",
+                "URL": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures"
+            },
+            {
+                "name": "Code Complete",
+                "URL": "https://www.goodreads.com/book/show/4845.Code_Complete"
+            },
+            {
+                "name": "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions",
+                "URL": "https://www.goodreads.com/book/show/85012.Enterprise_Integration_Patterns"
+            },
+            {
+                "name": "Agile Software Development, Principles, Patterns, and Practices",
+                "URL": "https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices"
+            },
+            {
+                "name": "Peopleware: Productive Projects and Teams",
+                "URL": "https://www.goodreads.com/book/show/67825.Peopleware"
+            },
+            {
+                "name": "The Art of Unit Testing: With Examples in .NET",
+                "URL": "https://www.goodreads.com/book/show/6487349-the-art-of-unit-testing"
+            }
+        ]
+    },
+    "Implementing Domain-Driven Design": {
+        "book_url": "https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design",
+        "book_title": "Implementing Domain-Driven Design",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342552108l/15756865.jpg",
+        "book_id": "bf1ce0a7-5f46-47fd-a3d7-9bc335045b1f",
+        "book_isbn": "9780321834577",
+        "author_url": "https://www.goodreads.com/author/show/6444097.Vaughn_Vernon",
+        "author_name": "Vaughn Vernon",
+        "all_authors": [
+            {
+                "name": "Vaughn Vernon",
+                "URL": "https://www.goodreads.com/author/show/6444097.Vaughn_Vernon"
+            }
+        ],
+        "book_rating": 4.06,
+        "book_rating_num": 773,
+        "book_review_num": 56,
+        "similar_books_link": "https://www.goodreads.com/book/similar/21454662-implementing-domain-driven-design?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Implementing Domain-Driven Design",
+                "URL": "https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design"
+            },
+            {
+                "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+                "URL": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+            },
+            {
+                "name": "Clean Architecture",
+                "URL": "https://www.goodreads.com/book/show/18043011-clean-architecture"
+            },
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+                "URL": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+            },
+            {
+                "name": "Head First Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns"
+            },
+            {
+                "name": "Building Microservices: Designing Fine-Grained Systems",
+                "URL": "https://www.goodreads.com/book/show/22512931-building-microservices"
+            },
+            {
+                "name": "Accelerate: Building and Scaling High-Performing Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/35747076-accelerate"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "Patterns of Enterprise Application Architecture",
+                "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+            },
+            {
+                "name": "Designing Data-Intensive Applications",
+                "URL": "https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"
+            },
+            {
+                "name": "Patterns Principles and Practices of Domain Driven Design",
+                "URL": "https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design"
+            },
+            {
+                "name": "Refactoring to Patterns",
+                "URL": "https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns"
+            },
+            {
+                "name": "Building Evolutionary Architectures: Support Constant Change",
+                "URL": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures"
+            },
+            {
+                "name": "Pragmatic Thinking and Learning: Refactor Your Wetware",
+                "URL": "https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "A Philosophy of Software Design",
+                "URL": "https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design"
+            },
+            {
+                "name": "Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)",
+                "URL": "https://www.goodreads.com/book/show/1069827.Release_It_"
+            },
+            {
+                "name": "The Art of Unit Testing: With Examples in .NET",
+                "URL": "https://www.goodreads.com/book/show/6487349-the-art-of-unit-testing"
+            },
+            {
+                "name": "The Software Craftsman: Professionalism, Pragmatism, Pride",
+                "URL": "https://www.goodreads.com/book/show/23215733-the-software-craftsman"
+            },
+            {
+                "name": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/26083308-the-devops-handbook"
+            },
+            {
+                "name": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+                "URL": "https://www.goodreads.com/book/show/33369254-the-manager-s-path"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "Growing Object-Oriented Software, Guided by Tests",
+                "URL": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "Effective Java Programming Language Guide",
+                "URL": "https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide"
+            },
+            {
+                "name": "Agile Principles, Patterns, and Practices in C#",
+                "URL": "https://www.goodreads.com/book/show/84983.Agile_Principles_Patterns_and_Practices_in_C_"
+            },
+            {
+                "name": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+                "URL": "https://www.goodreads.com/book/show/17255186-the-phoenix-project"
+            },
+            {
+                "name": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+                "URL": "https://www.goodreads.com/book/show/8686650-continuous-delivery"
+            }
+        ]
+    },
+    "Extreme Programming In Practice": {
+        "book_url": "https://www.goodreads.com/book/show/1640115.Extreme_Programming_In_Practice",
+        "book_title": "Extreme Programming In Practice",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186213768l/1640115._SX318_.jpg",
+        "book_id": "1d689ade-35b3-46a2-af8f-c75868178d62",
+        "book_isbn": "9780201709377",
+        "author_url": "https://www.goodreads.com/author/show/239629.James_W_Newkirk",
+        "author_name": "James W. Newkirk",
+        "all_authors": [
+            {
+                "name": "James W. Newkirk",
+                "URL": "https://www.goodreads.com/author/show/239629.James_W_Newkirk"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            }
+        ],
+        "book_rating": 2.96,
+        "book_rating_num": 27,
+        "book_review_num": 2,
+        "similar_books_link": "/book/shelves/1640115.Extreme_Programming_In_Practice?page=1&per_page=10000",
+        "similar_books": []
+    },
+    "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation": {
+        "book_url": "https://www.goodreads.com/book/show/8686650-continuous-delivery",
+        "book_title": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347640457l/8686650.jpg",
+        "book_id": "babbdf01-8105-4001-be6f-b6d7780c306f",
+        "book_isbn": "9780321601919",
+        "author_url": "https://www.goodreads.com/author/show/4149510.Jez_Humble",
+        "author_name": "Jez Humble",
+        "all_authors": [
+            {
+                "name": "Jez Humble",
+                "URL": "https://www.goodreads.com/author/show/4149510.Jez_Humble"
+            },
+            {
+                "name": "David  Farley",
+                "URL": "https://www.goodreads.com/author/show/3367043.David_Farley"
+            }
+        ],
+        "book_rating": 4.17,
+        "book_rating_num": 2776,
+        "book_review_num": 126,
+        "similar_books_link": "https://www.goodreads.com/book/similar/13558958-continuous-delivery-reliable-software-releases-through-build-test-and?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+                "URL": "https://www.goodreads.com/book/show/8686650-continuous-delivery"
+            },
+            {
+                "name": "Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)",
+                "URL": "https://www.goodreads.com/book/show/1069827.Release_It_"
+            },
+            {
+                "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+                "URL": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Building Microservices: Designing Fine-Grained Systems",
+                "URL": "https://www.goodreads.com/book/show/22512931-building-microservices"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/26083308-the-devops-handbook"
+            },
+            {
+                "name": "Head First Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns"
+            },
+            {
+                "name": "Accelerate: Building and Scaling High-Performing Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/35747076-accelerate"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+                "URL": "https://www.goodreads.com/book/show/17255186-the-phoenix-project"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "The Principles of Product Development Flow: Second Generation Lean Product Development",
+                "URL": "https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow"
+            },
+            {
+                "name": "Growing Object-Oriented Software, Guided by Tests",
+                "URL": "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests"
+            },
+            {
+                "name": "Site Reliability Engineering: How Google Runs Production Systems",
+                "URL": "https://www.goodreads.com/book/show/27968891-site-reliability-engineering"
+            },
+            {
+                "name": "User Stories Applied: For Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/3856.User_Stories_Applied"
+            },
+            {
+                "name": "Peopleware: Productive Projects and Teams",
+                "URL": "https://www.goodreads.com/book/show/67825.Peopleware"
+            },
+            {
+                "name": "Pragmatic Thinking and Learning: Refactor Your Wetware",
+                "URL": "https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning"
+            },
+            {
+                "name": "Kanban: Successful Evolutionary Change for Your Technology Business",
+                "URL": "https://www.goodreads.com/book/show/8086552-kanban"
+            },
+            {
+                "name": "Management 3.0: Leading Agile Developers, Developing Agile Leaders",
+                "URL": "https://www.goodreads.com/book/show/10210821-management-3-0"
+            },
+            {
+                "name": "The Mythical Man-Month: Essays on Software Engineering",
+                "URL": "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month"
+            },
+            {
+                "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+                "URL": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+            },
+            {
+                "name": "The Passionate Programmer",
+                "URL": "https://www.goodreads.com/book/show/6399113-the-passionate-programmer"
+            },
+            {
+                "name": "Designing Data-Intensive Applications",
+                "URL": "https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"
+            },
+            {
+                "name": "Clean Architecture",
+                "URL": "https://www.goodreads.com/book/show/18043011-clean-architecture"
+            },
+            {
+                "name": "Agile Product Management with Scrum: Creating Products That Customers Love",
+                "URL": "https://www.goodreads.com/book/show/7950745-agile-product-management-with-scrum"
+            },
+            {
+                "name": "Building Evolutionary Architectures: Support Constant Change",
+                "URL": "https://www.goodreads.com/book/show/35755822-building-evolutionary-architectures"
+            },
+            {
+                "name": "Code Complete",
+                "URL": "https://www.goodreads.com/book/show/4845.Code_Complete"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            }
+        ]
+    },
+    "Hacker Monthly Special Issue: The Debate": {
+        "book_url": "https://www.goodreads.com/book/show/21226180-hacker-monthly-special-issue",
+        "book_title": "Hacker Monthly Special Issue: The Debate",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394345459l/21226180.jpg",
+        "book_id": "a9763231-5103-403d-83b9-90b166d1b172",
+        "book_isbn": "",
+        "author_url": "https://www.goodreads.com/author/show/7988599.Kelly_Sutton",
+        "author_name": "Kelly Sutton",
+        "all_authors": [
+            {
+                "name": "Kelly Sutton",
+                "URL": "https://www.goodreads.com/author/show/7988599.Kelly_Sutton"
+            },
+            {
+                "name": "Antonio Garcia-Martinez",
+                "URL": "https://www.goodreads.com/author/show/7988600.Antonio_Garcia_Martinez"
+            },
+            {
+                "name": "Shaneal Manek",
+                "URL": "https://www.goodreads.com/author/show/7988601.Shaneal_Manek"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Yehuda Katz",
+                "URL": "https://www.goodreads.com/author/show/1012947.Yehuda_Katz"
+            },
+            {
+                "name": "Mike Taylor",
+                "URL": "https://www.goodreads.com/author/show/52693.Mike_Taylor"
+            },
+            {
+                "name": "Paul Graham",
+                "URL": "https://www.goodreads.com/author/show/23551.Paul_Graham"
+            },
+            {
+                "name": "Gary Bernhardt",
+                "URL": "https://www.goodreads.com/author/show/7988602.Gary_Bernhardt"
+            },
+            {
+                "name": "Lim Cheng Soon",
+                "URL": "https://www.goodreads.com/author/show/7549071.Lim_Cheng_Soon"
+            },
+            {
+                "name": "Marc Aspinall",
+                "URL": "https://www.goodreads.com/author/show/5773644.Marc_Aspinall"
+            }
+        ],
+        "book_rating": 0.0,
+        "book_rating_num": 0,
+        "book_review_num": 0,
+        "similar_books_link": "",
+        "similar_books": []
+    },
+    "The Robert C. Martin Clean Code Collection (Collection)": {
+        "book_url": "https://www.goodreads.com/book/show/13136186-the-robert-c-martin-clean-code-collection",
+        "book_title": "The Robert C. Martin Clean Code Collection (Collection)",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322721478l/13136186._SX318_SY475_.jpg",
+        "book_id": "ddb7d7bc-a4c1-45bb-9a13-03d1ef16e03c",
+        "book_isbn": "9780132911221",
+        "author_url": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
+        "author_name": "Robert C. Martin",
+        "all_authors": [
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            }
+        ],
+        "book_rating": 4.5,
+        "book_rating_num": 340,
+        "book_review_num": 13,
+        "similar_books_link": "https://www.goodreads.com/book/similar/18312943-the-robert-c-martin-clean-code-collection-collection?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "The Robert C. Martin Clean Code Collection (Collection)",
+                "URL": "https://www.goodreads.com/book/show/13136186-the-robert-c-martin-clean-code-collection"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+                "URL": "https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited"
+            },
+            {
+                "name": "Designing Data-Intensive Applications",
+                "URL": "https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"
+            },
+            {
+                "name": "The Bible's Greatest Prophecies Unlocked! - A Voice Cries Out",
+                "URL": "https://www.goodreads.com/book/show/10396303-the-bible-s-greatest-prophecies-unlocked---a-voice-cries-out"
+            },
+            {
+                "name": "Guitarist's Guide To Scales Over Chords-The Foundation Of Melodic Guitar Soloing(Bk/Cd)",
+                "URL": "https://www.goodreads.com/book/show/12814769-guitarist-s-guide-to-scales-over-chords-the-foundation-of-melodic-guitar"
+            },
+            {
+                "name": "What I Learned on the Ranch: And Other Stories from a West Texas Childhood",
+                "URL": "https://www.goodreads.com/book/show/1942967.What_I_Learned_on_the_Ranch"
+            },
+            {
+                "name": "Heart of Ice (Critical IF gamebooks)",
+                "URL": "https://www.goodreads.com/book/show/19167324-heart-of-ice"
+            },
+            {
+                "name": "Mindfulness in Plain English",
+                "URL": "https://www.goodreads.com/book/show/64369.Mindfulness_in_Plain_English"
+            },
+            {
+                "name": "The Book of Tea",
+                "URL": "https://www.goodreads.com/book/show/904538.The_Book_of_Tea"
+            },
+            {
+                "name": "WiX 3.6: A Developer's Guide to Windows Installer XML",
+                "URL": "https://www.goodreads.com/book/show/17194794-wix-3-6"
+            },
+            {
+                "name": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+                "URL": "https://www.goodreads.com/book/show/33369254-the-manager-s-path"
+            },
+            {
+                "name": "Monster Manual (Dungeons & Dragons, 5th Edition)",
+                "URL": "https://www.goodreads.com/book/show/22219680-monster-manual"
+            },
+            {
+                "name": "Pro-Secrets of Heavy Rock Singing",
+                "URL": "https://www.goodreads.com/book/show/1124263.Pro_Secrets_of_Heavy_Rock_Singing"
+            },
+            {
+                "name": "Music Theory for Guitarists: Everything You Ever Wanted to Know But Were Afraid to Ask (Guitar Method)",
+                "URL": "https://www.goodreads.com/book/show/212353.Music_Theory_for_Guitarists"
+            },
+            {
+                "name": "Grimm's Fairy Tales",
+                "URL": "https://www.goodreads.com/book/show/19351490-grimm-s-fairy-tales"
+            },
+            {
+                "name": "Der Wortschatz",
+                "URL": "https://www.goodreads.com/book/show/12607874-der-wortschatz"
+            },
+            {
+                "name": "C++ Coding Standards: 101 Rules, Guidelines, and Best Practices",
+                "URL": "https://www.goodreads.com/book/show/1105780.C_Coding_Standards"
+            },
+            {
+                "name": "A Beginner's Guide to Investing: How to Grow Your Money the Smart and Easy Way",
+                "URL": "https://www.goodreads.com/book/show/13032386-a-beginner-s-guide-to-investing"
+            },
+            {
+                "name": "The Songs of Distant Earth",
+                "URL": "https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth"
+            },
+            {
+                "name": "The City and the Stars",
+                "URL": "https://www.goodreads.com/book/show/250024.The_City_and_the_Stars"
+            },
+            {
+                "name": "More Effective C++",
+                "URL": "https://www.goodreads.com/book/show/105123.More_Effective_C_"
+            },
+            {
+                "name": "Effective C++: 55 Specific Ways to Improve Your Programs and Designs",
+                "URL": "https://www.goodreads.com/book/show/105125.Effective_C_"
+            },
+            {
+                "name": "Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library",
+                "URL": "https://www.goodreads.com/book/show/105124.Effective_STL"
+            },
+            {
+                "name": "The Motley Fool Guide to Investing for Beginners",
+                "URL": "https://www.goodreads.com/book/show/25232012-the-motley-fool-guide-to-investing-for-beginners"
+            },
+            {
+                "name": "Your Life Can Be Better, Using Strategies for Adult ADD/ADHD",
+                "URL": "https://www.goodreads.com/book/show/13252402-your-life-can-be-better-using-strategies-for-adult-add-adhd"
+            },
+            {
+                "name": "You Mean I'm Not Lazy, Stupid or Crazy?!: A Self-Help Book for Adults with Attention Deficit Disorder",
+                "URL": "https://www.goodreads.com/book/show/1277029.You_Mean_I_m_Not_Lazy_Stupid_or_Crazy_"
+            },
+            {
+                "name": "API Design for C++",
+                "URL": "https://www.goodreads.com/book/show/10675945-api-design-for-c"
+            },
+            {
+                "name": "How to Read a Book: The Classic Guide to Intelligent Reading",
+                "URL": "https://www.goodreads.com/book/show/567610.How_to_Read_a_Book"
+            },
+            {
+                "name": "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture",
+                "URL": "https://www.goodreads.com/book/show/222146.Masters_of_Doom"
+            },
+            {
+                "name": "The Paleo Solution: The Original Human Diet",
+                "URL": "https://www.goodreads.com/book/show/8233436-the-paleo-solution"
+            }
+        ]
+    },
+    "Coders at Work: Reflections on the Craft of Programming": {
+        "book_url": "https://www.goodreads.com/book/show/6713575-coders-at-work",
+        "book_title": "Coders at Work: Reflections on the Craft of Programming",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349026758l/6713575.jpg",
+        "book_id": "5952eb8b-b436-4d13-a924-36c8c48f09b1",
+        "book_isbn": "9781430219484",
+        "author_url": "https://www.goodreads.com/author/show/312165.Peter_Seibel",
+        "author_name": "Peter Seibel",
+        "all_authors": [
+            {
+                "name": "Peter Seibel",
+                "URL": "https://www.goodreads.com/author/show/312165.Peter_Seibel"
+            }
+        ],
+        "book_rating": 3.93,
+        "book_rating_num": 4762,
+        "book_review_num": 241,
+        "similar_books_link": "https://www.goodreads.com/book/similar/6909460-coders-at-work?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Coders at Work: Reflections on the Craft of Programming",
+                "URL": "https://www.goodreads.com/book/show/6713575-coders-at-work"
+            },
+            {
+                "name": "The Passionate Programmer",
+                "URL": "https://www.goodreads.com/book/show/6399113-the-passionate-programmer"
+            },
+            {
+                "name": "Hackers & Painters: Big Ideas from the Computer Age",
+                "URL": "https://www.goodreads.com/book/show/41793.Hackers_Painters"
+            },
+            {
+                "name": "Structure and Interpretation of Computer Programs (MIT Electrical Engineering and Computer Science)",
+                "URL": "https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "Code Complete",
+                "URL": "https://www.goodreads.com/book/show/4845.Code_Complete"
+            },
+            {
+                "name": "The Mythical Man-Month: Essays on Software Engineering",
+                "URL": "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month"
+            },
+            {
+                "name": "Founders at Work: Stories of Startups' Early Days",
+                "URL": "https://www.goodreads.com/book/show/98233.Founders_at_Work"
+            },
+            {
+                "name": "The Pragmatic Programmer: From Journeyman to Master",
+                "URL": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "Hackers: Heroes of the Computer Revolution",
+                "URL": "https://www.goodreads.com/book/show/56829.Hackers"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+                "URL": "https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar"
+            },
+            {
+                "name": "Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software",
+                "URL": "https://www.goodreads.com/book/show/32475.Dreaming_in_Code"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+                "URL": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+            },
+            {
+                "name": "Peopleware: Productive Projects and Teams",
+                "URL": "https://www.goodreads.com/book/show/67825.Peopleware"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Joel on Software",
+                "URL": "https://www.goodreads.com/book/show/41786.Joel_on_Software"
+            },
+            {
+                "name": "Pragmatic Thinking and Learning: Refactor Your Wetware",
+                "URL": "https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning"
+            },
+            {
+                "name": "Introduction to Algorithms",
+                "URL": "https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms"
+            },
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture",
+                "URL": "https://www.goodreads.com/book/show/222146.Masters_of_Doom"
+            },
+            {
+                "name": "Where Wizards Stay Up Late: The Origins of the Internet",
+                "URL": "https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late"
+            },
+            {
+                "name": "A Philosophy of Software Design",
+                "URL": "https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design"
+            },
+            {
+                "name": "The C Programming Language",
+                "URL": "https://www.goodreads.com/book/show/515601.The_C_Programming_Language"
+            },
+            {
+                "name": "Effective Java Programming Language Guide",
+                "URL": "https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide"
+            },
+            {
+                "name": "The Soul of a New Machine",
+                "URL": "https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine"
+            },
+            {
+                "name": "Patterns of Enterprise Application Architecture",
+                "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+            },
+            {
+                "name": "The Practice of Programming (Addison-Wesley Professional Computing Series)",
+                "URL": "https://www.goodreads.com/book/show/1032758.The_Practice_of_Programming"
+            },
+            {
+                "name": "JavaScript: The Good Parts",
+                "URL": "https://www.goodreads.com/book/show/2998152-javascript"
+            }
+        ]
+    },
+    "User Stories Applied: For Agile Software Development": {
+        "book_url": "https://www.goodreads.com/book/show/3856.User_Stories_Applied",
+        "book_title": "User Stories Applied: For Agile Software Development",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925539l/3856.jpg",
+        "book_id": "700dcc44-aaff-4ead-9860-678f0bc852ef",
+        "book_isbn": "9780321205681",
+        "author_url": "https://www.goodreads.com/author/show/2620.Mike_Cohn",
+        "author_name": "Mike Cohn",
+        "all_authors": [
+            {
+                "name": "Mike Cohn",
+                "URL": "https://www.goodreads.com/author/show/2620.Mike_Cohn"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.com/author/show/25211.Kent_Beck"
+            }
+        ],
+        "book_rating": 3.88,
+        "book_rating_num": 2545,
+        "book_review_num": 118,
+        "similar_books_link": "https://www.goodreads.com/book/similar/7587-user-stories-applied-for-agile-software-development-the-addison-wesley?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "User Stories Applied: For Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/3856.User_Stories_Applied"
+            },
+            {
+                "name": "Running Lean: Iterate from Plan A to a Plan That Works",
+                "URL": "https://www.goodreads.com/book/show/13078769-running-lean"
+            },
+            {
+                "name": "Lean Analytics: Use Data to Build a Better Startup Faster",
+                "URL": "https://www.goodreads.com/book/show/16033602-lean-analytics"
+            },
+            {
+                "name": "Management 3.0: Leading Agile Developers, Developing Agile Leaders",
+                "URL": "https://www.goodreads.com/book/show/10210821-management-3-0"
+            },
+            {
+                "name": "The Four Steps to the Epiphany: Successful Strategies for Startups That Win",
+                "URL": "https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "Agile Retrospectives: Making Good Teams Great",
+                "URL": "https://www.goodreads.com/book/show/721338.Agile_Retrospectives"
+            },
+            {
+                "name": "Lean UX: Applying Lean Principles to Improve User Experience",
+                "URL": "https://www.goodreads.com/book/show/13436116-lean-ux"
+            },
+            {
+                "name": "Agile Product Management with Scrum: Creating Products That Customers Love",
+                "URL": "https://www.goodreads.com/book/show/7950745-agile-product-management-with-scrum"
+            },
+            {
+                "name": "User Story Mapping: Discover the Whole Story, Build the Right Product",
+                "URL": "https://www.goodreads.com/book/show/22221112-user-story-mapping"
+            },
+            {
+                "name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+                "URL": "https://www.goodreads.com/book/show/10127019-the-lean-startup"
+            },
+            {
+                "name": "Inspired: How to Create Tech Products Customers Love",
+                "URL": "https://www.goodreads.com/book/show/35249663-inspired"
+            },
+            {
+                "name": "Kanban: Successful Evolutionary Change for Your Technology Business",
+                "URL": "https://www.goodreads.com/book/show/8086552-kanban"
+            },
+            {
+                "name": "Scrum and XP from the Trenches",
+                "URL": "https://www.goodreads.com/book/show/2455391.Scrum_and_XP_from_the_Trenches"
+            },
+            {
+                "name": "The Innovator's Solution: Creating and Sustaining Successful Growth",
+                "URL": "https://www.goodreads.com/book/show/2618.The_Innovator_s_Solution"
+            },
+            {
+                "name": "Zero to One: Notes on Startups, or How to Build the Future",
+                "URL": "https://www.goodreads.com/book/show/18050143-zero-to-one"
+            },
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity",
+                "URL": "https://www.goodreads.com/book/show/44098.The_Inmates_Are_Running_the_Asylum"
+            },
+            {
+                "name": "Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition",
+                "URL": "https://www.goodreads.com/book/show/8337919-coaching-agile-teams"
+            },
+            {
+                "name": "The Agile Samurai: How Agile Masters Deliver Great Software",
+                "URL": "https://www.goodreads.com/book/show/8248700-the-agile-samurai"
+            },
+            {
+                "name": "Refactoring to Patterns",
+                "URL": "https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns"
+            },
+            {
+                "name": "The Entrepreneur's Guide to Customer Development: A cheat sheet to The Four Steps to the Epiphany",
+                "URL": "https://www.goodreads.com/book/show/9266037-the-entrepreneur-s-guide-to-customer-development"
+            },
+            {
+                "name": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+                "URL": "https://www.goodreads.com/book/show/8686650-continuous-delivery"
+            },
+            {
+                "name": "UX for Lean Startups",
+                "URL": "https://www.goodreads.com/book/show/16128986-ux-for-lean-startups"
+            },
+            {
+                "name": "Business Model Generation",
+                "URL": "https://www.goodreads.com/book/show/7723797-business-model-generation"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "Agile Project Management with Scrum",
+                "URL": "https://www.goodreads.com/book/show/113086.Agile_Project_Management_with_Scrum"
+            },
+            {
+                "name": "The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company",
+                "URL": "https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual"
+            },
+            {
+                "name": "Agile Coaching",
+                "URL": "https://www.goodreads.com/book/show/6582184-agile-coaching"
+            },
+            {
+                "name": "Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems",
+                "URL": "https://www.goodreads.com/book/show/6658783-rocket-surgery-made-easy"
+            },
+            {
+                "name": "The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators",
+                "URL": "https://www.goodreads.com/book/show/10054210-the-innovator-s-dna"
+            }
+        ]
+    },
+    "Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software": {
+        "book_url": "https://www.goodreads.com/book/show/32475.Dreaming_in_Code",
+        "book_title": "Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442376721l/32475._SY475_.jpg",
+        "book_id": "c04f1579-173d-4f72-90fd-3554577057ef",
+        "book_isbn": "9781400082469",
+        "author_url": "https://www.goodreads.com/author/show/18257.Scott_Rosenberg",
+        "author_name": "Scott Rosenberg",
+        "all_authors": [
+            {
+                "name": "Scott Rosenberg",
+                "URL": "https://www.goodreads.com/author/show/18257.Scott_Rosenberg"
+            }
+        ],
+        "book_rating": 3.71,
+        "book_rating_num": 2936,
+        "book_review_num": 235,
+        "similar_books_link": "https://www.goodreads.com/book/similar/1217032-dreaming-in-code-two-dozen-programmers-three-years-4-732-bugs-and-on?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software",
+                "URL": "https://www.goodreads.com/book/show/32475.Dreaming_in_Code"
+            },
+            {
+                "name": "Where Wizards Stay Up Late: The Origins of the Internet",
+                "URL": "https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late"
+            },
+            {
+                "name": "Automate This: How Algorithms Came to Rule Our World",
+                "URL": "https://www.goodreads.com/book/show/13542772-automate-this"
+            },
+            {
+                "name": "The Master Switch: The Rise and Fall of Information Empires",
+                "URL": "https://www.goodreads.com/book/show/8201080-the-master-switch"
+            },
+            {
+                "name": "Turing's Cathedral: The Origins of the Digital Universe",
+                "URL": "https://www.goodreads.com/book/show/12625589-turing-s-cathedral"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "In the Plex: How Google Thinks, Works, and Shapes Our Lives",
+                "URL": "https://www.goodreads.com/book/show/7841446-in-the-plex"
+            },
+            {
+                "name": "The Soul of a New Machine",
+                "URL": "https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine"
+            },
+            {
+                "name": "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+                "URL": "https://www.goodreads.com/book/show/134825.The_Cathedral_the_Bazaar"
+            },
+            {
+                "name": "Hackers: Heroes of the Computer Revolution",
+                "URL": "https://www.goodreads.com/book/show/56829.Hackers"
+            },
+            {
+                "name": "The Idea Factory: Bell Labs and the Great Age of American Innovation",
+                "URL": "https://www.goodreads.com/book/show/11797471-the-idea-factory"
+            },
+            {
+                "name": "In Pursuit of the Unknown: 17 Equations That Changed the World",
+                "URL": "https://www.goodreads.com/book/show/13237758-in-pursuit-of-the-unknown"
+            },
+            {
+                "name": "Just for Fun: The Story of an Accidental Revolutionary",
+                "URL": "https://www.goodreads.com/book/show/160171.Just_for_Fun"
+            },
+            {
+                "name": "The Hacker Crackdown: Law and Disorder on the Electronic Frontier",
+                "URL": "https://www.goodreads.com/book/show/61182.The_Hacker_Crackdown"
+            },
+            {
+                "name": "What Technology Wants",
+                "URL": "https://www.goodreads.com/book/show/7954936-what-technology-wants"
+            },
+            {
+                "name": "Coders at Work: Reflections on the Craft of Programming",
+                "URL": "https://www.goodreads.com/book/show/6713575-coders-at-work"
+            },
+            {
+                "name": "Makers: The New Industrial Revolution",
+                "URL": "https://www.goodreads.com/book/show/13414678-makers"
+            },
+            {
+                "name": "The Practice of Programming (Addison-Wesley Professional Computing Series)",
+                "URL": "https://www.goodreads.com/book/show/1032758.The_Practice_of_Programming"
+            },
+            {
+                "name": "Beautiful Code: Leading Programmers Explain How They Think",
+                "URL": "https://www.goodreads.com/book/show/405790.Beautiful_Code"
+            },
+            {
+                "name": "The Innovators: How a Group of  Hackers, Geniuses and Geeks Created the Digital Revolution",
+                "URL": "https://www.goodreads.com/book/show/21856367-the-innovators"
+            },
+            {
+                "name": "The Filter Bubble: What the Internet is Hiding From You",
+                "URL": "https://www.goodreads.com/book/show/10596103-the-filter-bubble"
+            },
+            {
+                "name": "Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground",
+                "URL": "https://www.goodreads.com/book/show/9319468-kingpin"
+            },
+            {
+                "name": "The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy",
+                "URL": "https://www.goodreads.com/book/show/10672848-the-theory-that-would-not-die"
+            },
+            {
+                "name": "Revolution in The Valley: The Insanely Great Story of How the Mac Was Made",
+                "URL": "https://www.goodreads.com/book/show/40492.Revolution_in_The_Valley"
+            },
+            {
+                "name": "The Passionate Programmer",
+                "URL": "https://www.goodreads.com/book/show/6399113-the-passionate-programmer"
+            },
+            {
+                "name": "User Stories Applied: For Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/3856.User_Stories_Applied"
+            },
+            {
+                "name": "Free as in Freedom: Richard Stallman's Crusade for Free Software",
+                "URL": "https://www.goodreads.com/book/show/658332.Free_as_in_Freedom"
+            },
+            {
+                "name": "The Pixar Touch: The Making of a Company",
+                "URL": "https://www.goodreads.com/book/show/2632830-the-pixar-touch"
+            },
+            {
+                "name": "Hackers & Painters: Big Ideas from the Computer Age",
+                "URL": "https://www.goodreads.com/book/show/41793.Hackers_Painters"
+            },
+            {
+                "name": "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age",
+                "URL": "https://www.goodreads.com/book/show/1101290.Dealers_of_Lightning"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            }
+        ]
+    },
+    "Scrum and XP from the Trenches": {
+        "book_url": "https://www.goodreads.com/book/show/2455391.Scrum_and_XP_from_the_Trenches",
+        "book_title": "Scrum and XP from the Trenches",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347762486l/2455391.jpg",
+        "book_id": "8e32ca9b-eeab-40fa-8b0c-bb3fcde52aa6",
+        "book_isbn": "9781430322641",
+        "author_url": "https://www.goodreads.com/author/show/1092280.Henrik_Kniberg",
+        "author_name": "Henrik Kniberg",
+        "all_authors": [
+            {
+                "name": "Henrik Kniberg",
+                "URL": "https://www.goodreads.com/author/show/1092280.Henrik_Kniberg"
+            }
+        ],
+        "book_rating": 4.19,
+        "book_rating_num": 1563,
+        "book_review_num": 111,
+        "similar_books_link": "https://www.goodreads.com/book/similar/2462586-scrum-and-xp-from-the-trenches?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Scrum and XP from the Trenches",
+                "URL": "https://www.goodreads.com/book/show/2455391.Scrum_and_XP_from_the_Trenches"
+            },
+            {
+                "name": "User Stories Applied: For Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/3856.User_Stories_Applied"
+            },
+            {
+                "name": "Agile Estimating and Planning",
+                "URL": "https://www.goodreads.com/book/show/9267.Agile_Estimating_and_Planning"
+            },
+            {
+                "name": "Scrum Guide",
+                "URL": "https://www.goodreads.com/book/show/12731973-scrum-guide"
+            },
+            {
+                "name": "Management 3.0: Leading Agile Developers, Developing Agile Leaders",
+                "URL": "https://www.goodreads.com/book/show/10210821-management-3-0"
+            },
+            {
+                "name": "Agile Retrospectives: Making Good Teams Great",
+                "URL": "https://www.goodreads.com/book/show/721338.Agile_Retrospectives"
+            },
+            {
+                "name": "Succeeding with Agile: Software Development Using Scrum",
+                "URL": "https://www.goodreads.com/book/show/6707987-succeeding-with-agile"
+            },
+            {
+                "name": "Agile Product Management with Scrum: Creating Products That Customers Love",
+                "URL": "https://www.goodreads.com/book/show/7950745-agile-product-management-with-scrum"
+            },
+            {
+                "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+                "URL": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+            },
+            {
+                "name": "Scrum: The Art of Doing Twice the Work in Half the Time",
+                "URL": "https://www.goodreads.com/book/show/19288230-scrum"
+            },
+            {
+                "name": "Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition",
+                "URL": "https://www.goodreads.com/book/show/8337919-coaching-agile-teams"
+            },
+            {
+                "name": "Peopleware: Productive Projects and Teams",
+                "URL": "https://www.goodreads.com/book/show/67825.Peopleware"
+            },
+            {
+                "name": "Agile Project Management with Scrum",
+                "URL": "https://www.goodreads.com/book/show/113086.Agile_Project_Management_with_Scrum"
+            },
+            {
+                "name": "The Agile Samurai: How Agile Masters Deliver Great Software",
+                "URL": "https://www.goodreads.com/book/show/8248700-the-agile-samurai"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Head First Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns"
+            },
+            {
+                "name": "Kanban: Successful Evolutionary Change for Your Technology Business",
+                "URL": "https://www.goodreads.com/book/show/8086552-kanban"
+            },
+            {
+                "name": "User Story Mapping: Discover the Whole Story, Build the Right Product",
+                "URL": "https://www.goodreads.com/book/show/22221112-user-story-mapping"
+            },
+            {
+                "name": "Release It!: Design and Deploy Production-Ready Software (Pragmatic Programmers)",
+                "URL": "https://www.goodreads.com/book/show/1069827.Release_It_"
+            },
+            {
+                "name": "Working Effectively with Legacy Code",
+                "URL": "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code"
+            },
+            {
+                "name": "The Mythical Man-Month: Essays on Software Engineering",
+                "URL": "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month"
+            },
+            {
+                "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                "URL": "https://www.goodreads.com/book/show/85009.Design_Patterns"
+            },
+            {
+                "name": "Lean UX: Applying Lean Principles to Improve User Experience",
+                "URL": "https://www.goodreads.com/book/show/13436116-lean-ux"
+            },
+            {
+                "name": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+                "URL": "https://www.goodreads.com/book/show/8686650-continuous-delivery"
+            },
+            {
+                "name": "Accelerate: Building and Scaling High-Performing Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/35747076-accelerate"
+            },
+            {
+                "name": "Refactoring to Patterns",
+                "URL": "https://www.goodreads.com/book/show/85041.Refactoring_to_Patterns"
+            },
+            {
+                "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+                "URL": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+            },
+            {
+                "name": "The Principles of Product Development Flow: Second Generation Lean Product Development",
+                "URL": "https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow"
+            },
+            {
+                "name": "Inspired: How to Create Tech Products Customers Love",
+                "URL": "https://www.goodreads.com/book/show/35249663-inspired"
+            },
+            {
+                "name": "Agile Coaching",
+                "URL": "https://www.goodreads.com/book/show/6582184-agile-coaching"
+            },
+            {
+                "name": "Patterns of Enterprise Application Architecture",
+                "URL": "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+            }
+        ]
+    },
+    "Manifesto for Agile Software Development": {
+        "book_url": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development",
+        "book_title": "Manifesto for Agile Software Development",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425956244l/25109583.jpg",
+        "book_id": "739d2049-910f-4d6c-8e5b-0b489d02a478",
+        "book_isbn": "",
+        "author_url": "https://www.goodreads.com/author/show/25211.Kent_Beck",
+        "author_name": "Kent Beck",
+        "all_authors": [
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "Mike Beedle",
+                "URL": "https://www.goodreads.com/author/show/200490.Mike_Beedle"
+            },
+            {
+                "name": "Arie van Bennekum",
+                "URL": "https://www.goodreads.com/author/show/4557283.Arie_van_Bennekum"
+            },
+            {
+                "name": "Alistair Cockburn",
+                "URL": "https://www.goodreads.com/author/show/2286.Alistair_Cockburn"
+            },
+            {
+                "name": "Ward Cunningham",
+                "URL": "https://www.goodreads.com/author/show/2618.Ward_Cunningham"
+            },
+            {
+                "name": "Martin Fowler",
+                "URL": "https://www.goodreads.com/author/show/25215.Martin_Fowler"
+            },
+            {
+                "name": "James W. Grenning",
+                "URL": "https://www.goodreads.com/author/show/4407799.James_W_Grenning"
+            },
+            {
+                "name": "Jim Highsmith",
+                "URL": "https://www.goodreads.com/author/show/309733.Jim_Highsmith"
+            },
+            {
+                "name": "Andrew Hunt",
+                "URL": "https://www.goodreads.com/author/show/2812.Andrew_Hunt"
+            },
+            {
+                "name": "Ron Jeffries",
+                "URL": "https://www.goodreads.com/author/show/26021.Ron_Jeffries"
+            },
+            {
+                "name": "Jon Kern",
+                "URL": "https://www.goodreads.com/author/show/4557284.Jon_Kern"
+            },
+            {
+                "name": "Brian Marick",
+                "URL": "https://www.goodreads.com/author/show/184488.Brian_Marick"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Steve Mellor",
+                "URL": "https://www.goodreads.com/author/show/3360843.Steve_Mellor"
+            },
+            {
+                "name": "Ken Schwaber",
+                "URL": "https://www.goodreads.com/author/show/65463.Ken_Schwaber"
+            },
+            {
+                "name": "Jeff Sutherland",
+                "URL": "https://www.goodreads.com/author/show/2290725.Jeff_Sutherland"
+            },
+            {
+                "name": "Dave Thomas",
+                "URL": "https://www.goodreads.com/author/show/13.Dave_Thomas"
+            }
+        ],
+        "book_rating": 4.7,
+        "book_rating_num": 57,
+        "book_review_num": 1,
+        "similar_books_link": "https://www.goodreads.com/book/similar/15016981-manifesto-for-agile-software-development?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "Scrum Guide",
+                "URL": "https://www.goodreads.com/book/show/12731973-scrum-guide"
+            },
+            {
+                "name": "\u041f\u0438\u0448\u0438, \u0441\u043e\u043a\u0440\u0430\u0449\u0430\u0439",
+                "URL": "https://www.goodreads.com/book/show/31855502"
+            },
+            {
+                "name": "\u0421\u043a\u0440\u0438\u043f\u043a\u0430 \u0420\u043e\u0442\u0448\u0438\u043b\u044c\u0434\u0430",
+                "URL": "https://www.goodreads.com/book/show/25774877"
+            },
+            {
+                "name": "The Bishop",
+                "URL": "https://www.goodreads.com/book/show/21288540-the-bishop"
+            },
+            {
+                "name": "Ivanov",
+                "URL": "https://www.goodreads.com/book/show/311649.Ivanov"
+            },
+            {
+                "name": "\u0421\u0442\u0443\u0434\u0435\u043d\u0442",
+                "URL": "https://www.goodreads.com/book/show/26206169"
+            },
+            {
+                "name": "The Shooting Party",
+                "URL": "https://www.goodreads.com/book/show/114610.The_Shooting_Party"
+            },
+            {
+                "name": "Lullaby",
+                "URL": "https://www.goodreads.com/book/show/22206.Lullaby"
+            },
+            {
+                "name": "\u041a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
+                "URL": "https://www.goodreads.com/book/show/8065522"
+            },
+            {
+                "name": "Two Captains",
+                "URL": "https://www.goodreads.com/book/show/158479.Two_Captains"
+            },
+            {
+                "name": "\u0417\u0430\u0442\u044f\u0436\u043d\u043e\u0439 \u043f\u043e\u0432\u043e\u0440\u043e\u0442: \u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0433\u0440\u0443\u043f\u043f\u044b \"\u041c\u0430\u0448\u0438\u043d\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438\"",
+                "URL": "https://www.goodreads.com/book/show/17231494"
+            },
+            {
+                "name": "\u0420\u0443\u0431\u0430\u0448\u043a\u0430",
+                "URL": "https://www.goodreads.com/book/show/1695654._"
+            },
+            {
+                "name": "Le Bourgeois Gentilhomme",
+                "URL": "https://www.goodreads.com/book/show/257213.Le_Bourgeois_Gentilhomme"
+            },
+            {
+                "name": "\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a \u043d\u0430\u0447\u0438\u043d\u0430\u0435\u0442\u0441\u044f \u0432 \u0441\u0443\u0431\u0431\u043e\u0442\u0443",
+                "URL": "https://www.goodreads.com/book/show/1442235._"
+            },
+            {
+                "name": "Definitely Maybe",
+                "URL": "https://www.goodreads.com/book/show/650777.Definitely_Maybe"
+            },
+            {
+                "name": "The Mysterious Island (Extraordinary Voyages, #12)",
+                "URL": "https://www.goodreads.com/book/show/32831.The_Mysterious_Island"
+            },
+            {
+                "name": "My Childhood",
+                "URL": "https://www.goodreads.com/book/show/163620.My_Childhood"
+            },
+            {
+                "name": "\u041f\u043e\u0432\u0435\u0441\u0442\u044c \u043e \u0434\u0440\u0443\u0436\u0431\u0435 \u0438 \u043d\u0435\u0434\u0440\u0443\u0436\u0431\u0435",
+                "URL": "https://www.goodreads.com/book/show/25683392"
+            },
+            {
+                "name": "\u0413\u0440\u0430\u0434 \u043e\u0431\u0440\u0435\u0447\u0435\u043d\u043d\u044b\u0439",
+                "URL": "https://www.goodreads.com/book/show/1567725._"
+            },
+            {
+                "name": "Heart of a Dog",
+                "URL": "https://www.goodreads.com/book/show/113205.Heart_of_a_Dog"
+            },
+            {
+                "name": "\u0417\u0435\u043b\u0435\u043d\u0430\u044f \u043b\u0430\u043c\u043f\u0430",
+                "URL": "https://www.goodreads.com/book/show/25228895"
+            },
+            {
+                "name": "\u0413\u0440\u0430\u043d\u0430\u0442\u043e\u0432\u044b\u0439 \u0411\u0440\u0430\u0441\u043b\u0435\u0442",
+                "URL": "https://www.goodreads.com/book/show/16134563"
+            },
+            {
+                "name": "\u0648\u0641\u0627\u0629 \u0645\u0648\u0638\u0641",
+                "URL": "https://www.goodreads.com/book/show/16034852"
+            },
+            {
+                "name": "Mother",
+                "URL": "https://www.goodreads.com/book/show/88043.Mother"
+            },
+            {
+                "name": "The Complete Sherlock Holmes",
+                "URL": "https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes"
+            },
+            {
+                "name": "Children",
+                "URL": "https://www.goodreads.com/book/show/13065035-children"
+            },
+            {
+                "name": "Clean Architecture",
+                "URL": "https://www.goodreads.com/book/show/18043011-clean-architecture"
+            },
+            {
+                "name": "\u0627\u0644\u0641\u0644\u0627\u062d\u0648\u0646",
+                "URL": "https://www.goodreads.com/book/show/16160393"
+            },
+            {
+                "name": "In the Ravine",
+                "URL": "https://www.goodreads.com/book/show/16435239-in-the-ravine"
+            },
+            {
+                "name": "And Quiet Flows the Don",
+                "URL": "https://www.goodreads.com/book/show/78024.And_Quiet_Flows_the_Don"
+            }
+        ]
+    },
+    "Lean UX: Applying Lean Principles to Improve User Experience": {
+        "book_url": "https://www.goodreads.com/book/show/13436116-lean-ux",
+        "book_title": "Lean UX: Applying Lean Principles to Improve User Experience",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381355830l/13436116.jpg",
+        "book_id": "3a50ff59-af91-4fb1-a50c-e2fdeb3e5234",
+        "book_isbn": "9781449311650",
+        "author_url": "https://www.goodreads.com/author/show/5607117.Jeff_Gothelf",
+        "author_name": "Jeff Gothelf",
+        "all_authors": [
+            {
+                "name": "Jeff Gothelf",
+                "URL": "https://www.goodreads.com/author/show/5607117.Jeff_Gothelf"
+            },
+            {
+                "name": "Josh Seiden",
+                "URL": "https://www.goodreads.com/author/show/6978161.Josh_Seiden"
+            }
+        ],
+        "book_rating": 3.97,
+        "book_rating_num": 4682,
+        "book_review_num": 207,
+        "similar_books_link": "https://www.goodreads.com/book/similar/18939926-lean-ux-applying-lean-principles-to-improve-user-experience?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "Lean UX: Applying Lean Principles to Improve User Experience",
+                "URL": "https://www.goodreads.com/book/show/13436116-lean-ux"
+            },
+            {
+                "name": "Lean Analytics: Use Data to Build a Better Startup Faster",
+                "URL": "https://www.goodreads.com/book/show/16033602-lean-analytics"
+            },
+            {
+                "name": "The Elements of User Experience: User-Centered Design for the Web (Voices (New Riders)",
+                "URL": "https://www.goodreads.com/book/show/1867.The_Elements_of_User_Experience"
+            },
+            {
+                "name": "UX for Lean Startups",
+                "URL": "https://www.goodreads.com/book/show/16128986-ux-for-lean-startups"
+            },
+            {
+                "name": "Running Lean: Iterate from Plan A to a Plan That Works",
+                "URL": "https://www.goodreads.com/book/show/13078769-running-lean"
+            },
+            {
+                "name": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
+                "URL": "https://www.goodreads.com/book/show/25814544-sprint"
+            },
+            {
+                "name": "Web Form Design: Filling in the Blanks",
+                "URL": "https://www.goodreads.com/book/show/3296910-web-form-design"
+            },
+            {
+                "name": "Value Proposition Design: How to Create Products and Services Customers Want",
+                "URL": "https://www.goodreads.com/book/show/22337524-value-proposition-design"
+            },
+            {
+                "name": "Inspired: How to Create Tech Products Customers Love",
+                "URL": "https://www.goodreads.com/book/show/35249663-inspired"
+            },
+            {
+                "name": "User Stories Applied: For Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/3856.User_Stories_Applied"
+            },
+            {
+                "name": "About Face 3: The Essentials of Interaction Design",
+                "URL": "https://www.goodreads.com/book/show/289062.About_Face_3"
+            },
+            {
+                "name": "Designing for Emotion",
+                "URL": "https://www.goodreads.com/book/show/12910715-designing-for-emotion"
+            },
+            {
+                "name": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability",
+                "URL": "https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited"
+            },
+            {
+                "name": "Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems",
+                "URL": "https://www.goodreads.com/book/show/6658783-rocket-surgery-made-easy"
+            },
+            {
+                "name": "User Story Mapping: Discover the Whole Story, Build the Right Product",
+                "URL": "https://www.goodreads.com/book/show/22221112-user-story-mapping"
+            },
+            {
+                "name": "100 Things Every Designer Needs to Know about People",
+                "URL": "https://www.goodreads.com/book/show/10778139-100-things-every-designer-needs-to-know-about-people"
+            },
+            {
+                "name": "Information Architecture for the World Wide Web: Designing Large-Scale Web Sites",
+                "URL": "https://www.goodreads.com/book/show/70132.Information_Architecture_for_the_World_Wide_Web"
+            },
+            {
+                "name": "Hooked: How to Build Habit-Forming Products",
+                "URL": "https://www.goodreads.com/book/show/22668729-hooked"
+            },
+            {
+                "name": "The User Experience Team of One: A Research and Design Survival Guide",
+                "URL": "https://www.goodreads.com/book/show/18177290-the-user-experience-team-of-one"
+            },
+            {
+                "name": "Sketching User Experiences:  Getting the Design Right and the Right Design",
+                "URL": "https://www.goodreads.com/book/show/980280.Sketching_User_Experiences"
+            },
+            {
+                "name": "A Project Guide to UX Design: For User Experience Designers in the Field or in the Making",
+                "URL": "https://www.goodreads.com/book/show/4565900-a-project-guide-to-ux-design"
+            },
+            {
+                "name": "Interviewing Users: How to Uncover Compelling Insights",
+                "URL": "https://www.goodreads.com/book/show/17869520-interviewing-users"
+            },
+            {
+                "name": "The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company",
+                "URL": "https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual"
+            },
+            {
+                "name": "Designing Interfaces: Patterns for Effective Interaction Design",
+                "URL": "https://www.goodreads.com/book/show/344724.Designing_Interfaces"
+            },
+            {
+                "name": "The Entrepreneur's Guide to Customer Development: A cheat sheet to The Four Steps to the Epiphany",
+                "URL": "https://www.goodreads.com/book/show/9266037-the-entrepreneur-s-guide-to-customer-development"
+            },
+            {
+                "name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+                "URL": "https://www.goodreads.com/book/show/10127019-the-lean-startup"
+            },
+            {
+                "name": "UX Strategy: How to Devise Innovative Digital Products That People Want",
+                "URL": "https://www.goodreads.com/book/show/24346911-ux-strategy"
+            },
+            {
+                "name": "Just Enough Research",
+                "URL": "https://www.goodreads.com/book/show/17236175-just-enough-research"
+            },
+            {
+                "name": "Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences",
+                "URL": "https://www.goodreads.com/book/show/9967766-seductive-interaction-design"
+            },
+            {
+                "name": "Lean Customer Development (Hardcover Version): Building Products Your Customers Will Buy",
+                "URL": "https://www.goodreads.com/book/show/18492257-lean-customer-development-hardcover-version"
+            },
+            {
+                "name": "The Design of Everyday Things",
+                "URL": "https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things"
+            }
+        ]
+    },
+    "The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company": {
+        "book_url": "https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual",
+        "book_title": "The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company",
+        "book_image_link": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448890528l/13557008._SX318_.jpg",
+        "book_id": "746709b5-39fb-4090-843f-49805314afb2",
+        "book_isbn": "9780984999309",
+        "author_url": "https://www.goodreads.com/author/show/402425.Steve_Blank",
+        "author_name": "Steve Blank",
+        "all_authors": [
+            {
+                "name": "Steve Blank",
+                "URL": "https://www.goodreads.com/author/show/402425.Steve_Blank"
+            },
+            {
+                "name": "Bob Dorf",
+                "URL": "https://www.goodreads.com/author/show/4770781.Bob_Dorf"
+            }
+        ],
+        "book_rating": 4.11,
+        "book_rating_num": 10377,
+        "book_review_num": 110,
+        "similar_books_link": "https://www.goodreads.com/book/similar/19018247-the-startup-owner-s-manual-the-step-by-step-guide-for-building-a-great?page=1&per_page=10000",
+        "similar_books": [
+            {
+                "name": "The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company",
+                "URL": "https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual"
+            },
+            {
+                "name": "The Entrepreneur's Guide to Customer Development: A cheat sheet to The Four Steps to the Epiphany",
+                "URL": "https://www.goodreads.com/book/show/9266037-the-entrepreneur-s-guide-to-customer-development"
+            },
+            {
+                "name": "Running Lean: Iterate from Plan A to a Plan That Works",
+                "URL": "https://www.goodreads.com/book/show/13078769-running-lean"
+            },
+            {
+                "name": "Business Model Generation",
+                "URL": "https://www.goodreads.com/book/show/7723797-business-model-generation"
+            },
+            {
+                "name": "Lean Analytics: Use Data to Build a Better Startup Faster",
+                "URL": "https://www.goodreads.com/book/show/16033602-lean-analytics"
+            },
+            {
+                "name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+                "URL": "https://www.goodreads.com/book/show/10127019-the-lean-startup"
+            },
+            {
+                "name": "Venture Deals",
+                "URL": "https://www.goodreads.com/book/show/11865558-venture-deals"
+            },
+            {
+                "name": "The Innovator's Solution: Creating and Sustaining Successful Growth",
+                "URL": "https://www.goodreads.com/book/show/2618.The_Innovator_s_Solution"
+            },
+            {
+                "name": "Founders at Work: Stories of Startups' Early Days",
+                "URL": "https://www.goodreads.com/book/show/98233.Founders_at_Work"
+            },
+            {
+                "name": "The Founder's Dilemmas: Anticipating and Avoiding the Pitfalls That Can Sink a Startup",
+                "URL": "https://www.goodreads.com/book/show/13234710-the-founder-s-dilemmas"
+            },
+            {
+                "name": "The Back of the Napkin: Solving Problems and Selling Ideas with Pictures",
+                "URL": "https://www.goodreads.com/book/show/2420301.The_Back_of_the_Napkin"
+            },
+            {
+                "name": "Inspired: How to Create Tech Products Customers Love",
+                "URL": "https://www.goodreads.com/book/show/35249663-inspired"
+            },
+            {
+                "name": "Do More Faster: Techstars Lessons to Accelerate Your Startup",
+                "URL": "https://www.goodreads.com/book/show/9549300-do-more-faster"
+            },
+            {
+                "name": "Unleashing the Ideavirus: Stop Marketing AT People! Turn Your Ideas into Epidemics by Helping Your Customers Do the Marketing thing for You.",
+                "URL": "https://www.goodreads.com/book/show/2613.Unleashing_the_Ideavirus"
+            },
+            {
+                "name": "Zero to One: Notes on Startups, or How to Build the Future",
+                "URL": "https://www.goodreads.com/book/show/18050143-zero-to-one"
+            },
+            {
+                "name": "Value Proposition Design: How to Create Products and Services Customers Want",
+                "URL": "https://www.goodreads.com/book/show/22337524-value-proposition-design"
+            },
+            {
+                "name": "UX for Lean Startups",
+                "URL": "https://www.goodreads.com/book/show/16128986-ux-for-lean-startups"
+            },
+            {
+                "name": "Lean UX: Applying Lean Principles to Improve User Experience",
+                "URL": "https://www.goodreads.com/book/show/13436116-lean-ux"
+            },
+            {
+                "name": "Startup Communities: Building an Entrepreneurial Ecosystem in Your City",
+                "URL": "https://www.goodreads.com/book/show/15822571-startup-communities"
+            },
+            {
+                "name": "The Tipping Point: How Little Things Can Make a Big Difference",
+                "URL": "https://www.goodreads.com/book/show/2612.The_Tipping_Point"
+            },
+            {
+                "name": "Business Model You: A One-Page Method for Reinventing Your Career",
+                "URL": "https://www.goodreads.com/book/show/12285518-business-model-you"
+            },
+            {
+                "name": "Go It Alone!: The Secret to Building a Successful Business on Your Own",
+                "URL": "https://www.goodreads.com/book/show/422363.Go_It_Alone_"
+            },
+            {
+                "name": "Getting to Plan B: Breaking Through to a Better Business Model",
+                "URL": "https://www.goodreads.com/book/show/7453642-getting-to-plan-b"
+            },
+            {
+                "name": "The Principles of Product Development Flow: Second Generation Lean Product Development",
+                "URL": "https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow"
+            },
+            {
+                "name": "Start Small, Stay Small: A Developer's Guide to Launching a Startup",
+                "URL": "https://www.goodreads.com/book/show/9167158-start-small-stay-small"
+            },
+            {
+                "name": "High Output Management",
+                "URL": "https://www.goodreads.com/book/show/324750.High_Output_Management"
+            },
+            {
+                "name": "Rework",
+                "URL": "https://www.goodreads.com/book/show/6732019-rework"
+            },
+            {
+                "name": "Traction: A Startup Guide to Getting Customers",
+                "URL": "https://www.goodreads.com/book/show/22091581-traction"
+            },
+            {
+                "name": "The Ten Faces of Innovation: IDEO's Strategies for Defeating the Devil's Advocate and Driving Creativity Throughout Your Organization",
+                "URL": "https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation"
+            },
+            {
+                "name": "Why We Buy: The Science of Shopping",
+                "URL": "https://www.goodreads.com/book/show/259031.Why_We_Buy"
+            },
+            {
+                "name": "Getting Real: The Smarter, Faster, Easier Way to Build a Web Application",
+                "URL": "https://www.goodreads.com/book/show/447648.Getting_Real"
+            }
+        ]
+    }
+}

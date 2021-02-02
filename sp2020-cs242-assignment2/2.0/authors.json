@@ -1,0 +1,2411 @@
+{
+    "Robert C. Martin": {
+        "author_name": "Robert C. Martin",
+        "author_url": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
+        "author_id": "c1d9addd-94a9-478b-b134-d68e8082a65f",
+        "author_rating": 4.34,
+        "author_rating_num": 24071,
+        "author_review_num": 1566,
+        "author_image_link": "https://images.gr-assets.com/authors/1490470967p5/45372.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/45372.Robert_C_Martin?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+                "URL": "https://www.goodreads.com/book/show/3735293-clean-code"
+            },
+            {
+                "name": "The Clean Coder: A Code of Conduct for Professional Programmers",
+                "URL": "https://www.goodreads.com/book/show/10284614-the-clean-coder"
+            },
+            {
+                "name": "Clean Architecture",
+                "URL": "https://www.goodreads.com/book/show/18043011-clean-architecture"
+            },
+            {
+                "name": "The Art of Unit Testing: Deutsche Ausgabe",
+                "URL": "https://www.goodreads.com/book/show/25099258-the-art-of-unit-testing"
+            },
+            {
+                "name": "Agile Software Development, Principles, Patterns, and Practices",
+                "URL": "https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices"
+            },
+            {
+                "name": "Agile Principles, Patterns, and Practices in C#",
+                "URL": "https://www.goodreads.com/book/show/84983.Agile_Principles_Patterns_and_Practices_in_C_"
+            },
+            {
+                "name": "The Robert C. Martin Clean Code Collection",
+                "URL": "https://www.goodreads.com/book/show/13136186-the-robert-c-martin-clean-code-collection"
+            },
+            {
+                "name": "Clean Agile: Back to Basics",
+                "URL": "https://www.goodreads.com/book/show/45280021-clean-agile"
+            },
+            {
+                "name": "Java Application Architecture :Modularity Patterns with Examples Using OSGi",
+                "URL": "https://www.goodreads.com/book/show/25576965-java-application-architecture"
+            },
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "UML for Java Programmers",
+                "URL": "https://www.goodreads.com/book/show/873375.UML_for_Java_Programmers"
+            },
+            {
+                "name": "The Cambridge Encyclopedia of Human Evolution",
+                "URL": "https://www.goodreads.com/book/show/177638.The_Cambridge_Encyclopedia_of_Human_Evolution"
+            },
+            {
+                "name": "Pattern Languages of Program Design 3",
+                "URL": "https://www.goodreads.com/book/show/79774.Pattern_Languages_of_Program_Design_3"
+            },
+            {
+                "name": "Extreme Programming In Practice",
+                "URL": "https://www.goodreads.com/book/show/1640115.Extreme_Programming_In_Practice"
+            },
+            {
+                "name": "Design Principles and  Design Patterns",
+                "URL": "https://www.goodreads.com/book/show/25936819-design-principles-and-design-patterns"
+            },
+            {
+                "name": "Designing C++ Applications Using the Booch Notation",
+                "URL": "https://www.goodreads.com/book/show/2075684.Designing_C_Applications_Using_the_Booch_Notation"
+            },
+            {
+                "name": "RibbonX: Customizing the Office 2007 Ribbon",
+                "URL": "https://www.goodreads.com/book/show/2503989.RibbonX"
+            },
+            {
+                "name": "LSP: The Liskov Substitution Principle",
+                "URL": "https://www.goodreads.com/book/show/26091056-lsp"
+            },
+            {
+                "name": "Macromedia Director MX 2004 Bible [With CDROM]",
+                "URL": "https://www.goodreads.com/book/show/131570.Macromedia_Director_MX_2004_Bible_With_CDROM_"
+            },
+            {
+                "name": "Director 8 and Lingo Bible [With CDROM]",
+                "URL": "https://www.goodreads.com/book/show/4828094-director-8-and-lingo-bible-with-cdrom"
+            },
+            {
+                "name": "DIP: The Dependency Inversion Principle",
+                "URL": "https://www.goodreads.com/book/show/26091146-dip"
+            },
+            {
+                "name": "OCP: The Open-Closed Principle",
+                "URL": "https://www.goodreads.com/book/show/26091039-ocp"
+            },
+            {
+                "name": "SRP: The Single Responsibility Principle",
+                "URL": "https://www.goodreads.com/book/show/26091010-srp"
+            },
+            {
+                "name": "Excel Programming with VBA Starter",
+                "URL": "https://www.goodreads.com/book/show/16256760-excel-programming-with-vba-starter"
+            },
+            {
+                "name": "ISP: The Interface Segregation Principle",
+                "URL": "https://www.goodreads.com/book/show/26091115-isp"
+            },
+            {
+                "name": "Using UNIX",
+                "URL": "https://www.goodreads.com/book/show/1976633.Using_UNIX"
+            },
+            {
+                "name": "Sebevrahuv pr\u016fvodce prahou",
+                "URL": "https://www.goodreads.com/book/show/34529639-sebevrahuv-pr-vodce-prahou"
+            },
+            {
+                "name": "Practical Speech for Modern Business",
+                "URL": "https://www.goodreads.com/book/show/15561963-practical-speech-for-modern-business"
+            },
+            {
+                "name": "\"The Object Of Data Abstraction And Structures Using Java\" With \"Agile Software Development, Principles, Patterns And Practices\"",
+                "URL": "https://www.goodreads.com/book/show/6517411-the-object-of-data-abstraction-and-structures-using-java-with-agile-s"
+            },
+            {
+                "name": "Hacker Monthly Special Issue: The Debate",
+                "URL": "https://www.goodreads.com/book/show/21226180-hacker-monthly-special-issue"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/45372.Robert_C_Martin?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Chad Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/302.Chad_Fowler"
+            },
+            {
+                "name": "Andy Hunt",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2815.Andy_Hunt"
+            },
+            {
+                "name": "Michael C. Feathers",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25201.Michael_C_Feathers"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "Martin Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25215.Martin_Fowler"
+            },
+            {
+                "name": "Eric Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/32731.Eric_Freeman"
+            },
+            {
+                "name": "Erich Gamma",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48622.Erich_Gamma"
+            },
+            {
+                "name": "Gregor Hohpe",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48627.Gregor_Hohpe"
+            },
+            {
+                "name": "Joshua Kerievsky",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48660.Joshua_Kerievsky"
+            },
+            {
+                "name": "Eric Evans",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/104368.Eric_Evans"
+            },
+            {
+                "name": "Sandro Mancuso",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7127583.Sandro_Mancuso"
+            },
+            {
+                "name": "Gary McLean Hall",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7218903.Gary_McLean_Hall"
+            },
+            {
+                "name": "Steve  Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/9824504.Steve_Freeman"
+            }
+        ]
+    },
+    "Kelly Sutton": {
+        "author_name": "Kelly Sutton",
+        "author_url": "https://www.goodreads.com/author/show/7988599.Kelly_Sutton",
+        "author_id": "9a706625-dab9-4fcc-8afa-43e9f0e5159b",
+        "author_rating": 0.0,
+        "author_rating_num": 0,
+        "author_review_num": 0,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/7988599.Kelly_Sutton?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Hacker Monthly Special Issue: The Debate",
+                "URL": "https://www.goodreads.com/book/show/21226180-hacker-monthly-special-issue"
+            },
+            {
+                "name": "If the Fish are Bite'n: Fishing Across Canada",
+                "URL": "https://www.goodreads.com/book/show/32821101-if-the-fish-are-bite-n"
+            }
+        ],
+        "related_authors_link": "",
+        "related_authors": []
+    },
+    "Paul Graham": {
+        "author_name": "Paul Graham",
+        "author_url": "https://www.goodreads.com/author/show/23551.Paul_Graham",
+        "author_id": "53d07d50-3441-4bd8-ba41-9c93377e7d09",
+        "author_rating": 4.07,
+        "author_rating_num": 8976,
+        "author_review_num": 441,
+        "author_image_link": "https://images.gr-assets.com/authors/1235405249p5/23551.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/23551.Paul_Graham?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Hackers & Painters: Big Ideas from the Computer Age",
+                "URL": "https://www.goodreads.com/book/show/41793.Hackers_Painters"
+            },
+            {
+                "name": "On LISP: Advanced Techniques for Common LISP",
+                "URL": "https://www.goodreads.com/book/show/41803.On_LISP"
+            },
+            {
+                "name": "ANSI Common Lisp",
+                "URL": "https://www.goodreads.com/book/show/41801.ANSI_Common_Lisp"
+            },
+            {
+                "name": "Paul Graham Essays",
+                "URL": "https://www.goodreads.com/book/show/12038146-paul-graham-essays"
+            },
+            {
+                "name": "Introduction to Political Theory",
+                "URL": "https://www.goodreads.com/book/show/7717475-introduction-to-political-theory"
+            },
+            {
+                "name": "A Shimmer of Possibility",
+                "URL": "https://www.goodreads.com/book/show/6046522-a-shimmer-of-possibility"
+            },
+            {
+                "name": "Creative Entrepreneurship",
+                "URL": "https://www.goodreads.com/book/show/17608348-creative-entrepreneurship"
+            },
+            {
+                "name": "Dixon Of Dock Green",
+                "URL": "https://www.goodreads.com/book/show/20803002-dixon-of-dock-green"
+            },
+            {
+                "name": "Rawls",
+                "URL": "https://www.goodreads.com/book/show/162154.Rawls"
+            },
+            {
+                "name": "End of an Age",
+                "URL": "https://www.goodreads.com/book/show/41799.End_of_an_Age"
+            },
+            {
+                "name": "Paul Graham: American Night",
+                "URL": "https://www.goodreads.com/book/show/41797.Paul_Graham"
+            },
+            {
+                "name": "Paul Graham: The Art of Funding a Startup",
+                "URL": "https://www.goodreads.com/book/show/12851968-paul-graham"
+            },
+            {
+                "name": "Rawls: A Beginner's Guide",
+                "URL": "https://www.goodreads.com/book/show/25777993-rawls"
+            },
+            {
+                "name": "Paul Graham (Contemporary Artists",
+                "URL": "https://www.goodreads.com/book/show/41800.Paul_Graham_Contemporary_Artists"
+            },
+            {
+                "name": "Beyond Caring",
+                "URL": "https://www.goodreads.com/book/show/10280787-beyond-caring"
+            },
+            {
+                "name": "Crazy Season",
+                "URL": "https://www.goodreads.com/book/show/15866688-crazy-season"
+            },
+            {
+                "name": "Understanding the War Between the States: A Supplemental Booklet by 16 Writers that Enables a More Complete and Truthful Study of American History",
+                "URL": "https://www.goodreads.com/book/show/26530006-understanding-the-war-between-the-states"
+            },
+            {
+                "name": "Introduction to Political Concepts",
+                "URL": "https://www.goodreads.com/book/show/3015349-introduction-to-political-concepts"
+            },
+            {
+                "name": "Paul Graham",
+                "URL": "https://www.goodreads.com/book/show/6208731-paul-graham"
+            },
+            {
+                "name": "Introduction to Political Theory",
+                "URL": "https://www.goodreads.com/book/show/25443263-introduction-to-political-theory"
+            },
+            {
+                "name": "The Present",
+                "URL": "https://www.goodreads.com/book/show/18294399-the-present"
+            },
+            {
+                "name": "Mms: Technologies, Usage and Business Models?",
+                "URL": "https://www.goodreads.com/book/show/683071.Mms"
+            },
+            {
+                "name": "Films",
+                "URL": "https://www.goodreads.com/book/show/10989082-films"
+            },
+            {
+                "name": "New Europe",
+                "URL": "https://www.goodreads.com/book/show/41798.New_Europe"
+            },
+            {
+                "name": "Empty Heaven",
+                "URL": "https://www.goodreads.com/book/show/683069.Empty_Heaven"
+            },
+            {
+                "name": "Paul Graham.",
+                "URL": "https://www.goodreads.com/book/show/8419556-paul-graham"
+            },
+            {
+                "name": "Paul Graham: Europe, America",
+                "URL": "https://www.goodreads.com/book/show/14687788-paul-graham"
+            },
+            {
+                "name": "Eating Vegan in Vegas",
+                "URL": "https://www.goodreads.com/book/show/22173917-eating-vegan-in-vegas"
+            },
+            {
+                "name": "The Whiteness of the Whale",
+                "URL": "https://www.goodreads.com/book/show/29769432-the-whiteness-of-the-whale"
+            },
+            {
+                "name": "In Umbra Res",
+                "URL": "https://www.goodreads.com/book/show/17786621-in-umbra-res"
+            },
+            {
+                "name": "MMS: Technologies, Usage and Business Models",
+                "URL": "https://www.goodreads.com/book/show/20039272-mms"
+            },
+            {
+                "name": "Irishman in Iraq",
+                "URL": "https://www.goodreads.com/book/show/20295493-irishman-in-iraq"
+            },
+            {
+                "name": "Well, What Is Photography?",
+                "URL": "https://www.goodreads.com/book/show/805645.Well_What_Is_Photography_"
+            },
+            {
+                "name": "In the Balance: Debating the State of Democracy in South Africa",
+                "URL": "https://www.goodreads.com/book/show/4925454-in-the-balance"
+            },
+            {
+                "name": "A1: The Great North Road",
+                "URL": "https://www.goodreads.com/book/show/47953327-a1"
+            },
+            {
+                "name": "photography is easy photography is difficult",
+                "URL": "https://www.goodreads.com/book/show/41134440-photography-is-easy-photography-is-difficult"
+            },
+            {
+                "name": "Constellations",
+                "URL": "https://www.goodreads.com/book/show/47953328-constellations"
+            },
+            {
+                "name": "1981 & 2011",
+                "URL": "https://www.goodreads.com/book/show/50631224-1981-2011"
+            },
+            {
+                "name": "A1",
+                "URL": "https://www.goodreads.com/book/show/50631227-a1"
+            },
+            {
+                "name": "Mother",
+                "URL": "https://www.goodreads.com/book/show/48942285-mother"
+            },
+            {
+                "name": "Eating Vegan in Vegas Guidebook, Second Edition",
+                "URL": "https://www.goodreads.com/book/show/32683313-eating-vegan-in-vegas-guidebook-second-edition"
+            },
+            {
+                "name": "Liquid Truth",
+                "URL": "https://www.goodreads.com/book/show/9782126-liquid-truth"
+            },
+            {
+                "name": "Paul Graham",
+                "URL": "https://www.goodreads.com/book/show/22227664-paul-graham"
+            },
+            {
+                "name": "How to Raise Money",
+                "URL": "https://www.goodreads.com/book/show/35711318-how-to-raise-money"
+            },
+            {
+                "name": "On Lisp: advanced techniques for common Lisp",
+                "URL": "https://www.goodreads.com/book/show/6945830-on-lisp"
+            },
+            {
+                "name": "Alpine Spaniel Activities Alpine Spaniel Activities (Tricks, Games & Agility) Includes: Alpine Spaniel Agility, Easy to Advanced Tricks, Fun Games, plus New Content",
+                "URL": "https://www.goodreads.com/book/show/32962462-alpine-spaniel-activities-alpine-spaniel-activities-tricks-games-agi"
+            },
+            {
+                "name": "The Blueprint of Life",
+                "URL": "https://www.goodreads.com/book/show/12356730-the-blueprint-of-life"
+            },
+            {
+                "name": "Dylan",
+                "URL": "https://www.goodreads.com/book/show/15191154-dylan"
+            },
+            {
+                "name": "Il progetto della vita",
+                "URL": "https://www.goodreads.com/book/show/21748910-il-progetto-della-vita"
+            },
+            {
+                "name": "Inheriting Poverty? The Link Between Children's Wellbeing and Unemployment in South Africa",
+                "URL": "https://www.goodreads.com/book/show/3198901-inheriting-poverty-the-link-between-children-s-wellbeing-and-unemployme"
+            },
+            {
+                "name": "Paul Graham Paintings",
+                "URL": "https://www.goodreads.com/book/show/41802.Paul_Graham_Paintings"
+            },
+            {
+                "name": "Paris 11-15th November, 2015",
+                "URL": "https://www.goodreads.com/book/show/43187050-paris-11-15th-november-2015"
+            },
+            {
+                "name": "The Adventures of Captain Kizzy and the Grapes",
+                "URL": "https://www.goodreads.com/book/show/6218406-the-adventures-of-captain-kizzy-and-the-grapes"
+            },
+            {
+                "name": "West Norwood Cemetery: The Dickens Connection",
+                "URL": "https://www.goodreads.com/book/show/3227849-west-norwood-cemetery"
+            },
+            {
+                "name": "Dreams Of Sarah",
+                "URL": "https://www.goodreads.com/book/show/26462308-dreams-of-sarah"
+            },
+            {
+                "name": "Introduction to Political Ideologies",
+                "URL": "https://www.goodreads.com/book/show/3015348-introduction-to-political-ideologies"
+            },
+            {
+                "name": "PORTFOLIO (biannual magazine of contemporary photography) SPECIAL ANNIVERSARY ISSUE 50",
+                "URL": "https://www.goodreads.com/book/show/21066218-portfolio-biannual-magazine-of-contemporary-photography-special-annive"
+            },
+            {
+                "name": "Hacker Monthly Special Issue: The Debate",
+                "URL": "https://www.goodreads.com/book/show/21226180-hacker-monthly-special-issue"
+            },
+            {
+                "name": "American History for Home Schools, 1607 to 1885, with a Focus on Our Civil War",
+                "URL": "https://www.goodreads.com/book/show/43162342-american-history-for-home-schools-1607-to-1885-with-a-focus-on-our-civ"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/23551.Paul_Graham?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Paul Graham",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/23551.Paul_Graham"
+            },
+            {
+                "name": "Chad Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/302.Chad_Fowler"
+            },
+            {
+                "name": "Scott Adams",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5282.Scott_Adams"
+            },
+            {
+                "name": "George Saunders",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/8885.George_Saunders"
+            },
+            {
+                "name": "Peter Norvig",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/15468.Peter_Norvig"
+            },
+            {
+                "name": "Eric S. Raymond",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/18542.Eric_S_Raymond"
+            },
+            {
+                "name": "Nassim Nicholas Taleb",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb"
+            },
+            {
+                "name": "Joel Spolsky",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/23546.Joel_Spolsky"
+            },
+            {
+                "name": "Niklaus Wirth",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/32682.Niklaus_Wirth"
+            },
+            {
+                "name": "Tom DeMarco",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/38238.Tom_DeMarco"
+            },
+            {
+                "name": "Jessica Livingston",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/56429.Jessica_Livingston"
+            },
+            {
+                "name": "Jason Fried",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/60619.Jason_Fried"
+            },
+            {
+                "name": "Donald Ervin Knuth",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/64941.Donald_Ervin_Knuth"
+            },
+            {
+                "name": "Bjarne Stroustrup",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/64947.Bjarne_Stroustrup"
+            },
+            {
+                "name": "Peter van der Linden",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/115504.Peter_van_der_Linden"
+            },
+            {
+                "name": "Brian W. Kernighan",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/153350.Brian_W_Kernighan"
+            },
+            {
+                "name": "Peter Seibel",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/312165.Peter_Seibel"
+            },
+            {
+                "name": "Steve Blank",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/402425.Steve_Blank"
+            },
+            {
+                "name": "Steven S. Skiena",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/518918.Steven_S_Skiena"
+            },
+            {
+                "name": "Christian Queinnec",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/570853.Christian_Queinnec"
+            },
+            {
+                "name": "Martin Odersky",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/666527.Martin_Odersky"
+            },
+            {
+                "name": "A.G. Lafley",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1254177.A_G_Lafley"
+            },
+            {
+                "name": "Doug Hoyte",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1706971.Doug_Hoyte"
+            },
+            {
+                "name": "Brad Feld",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4395710.Brad_Feld"
+            },
+            {
+                "name": "Harold Abelson",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5409448.Harold_Abelson"
+            },
+            {
+                "name": "Steven J. Gortler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/6480528.Steven_J_Gortler"
+            },
+            {
+                "name": "James Clear",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7327369.James_Clear"
+            },
+            {
+                "name": "Scott Reintgen",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/14593331.Scott_Reintgen"
+            }
+        ]
+    },
+    "Ken Schwaber": {
+        "author_name": "Ken Schwaber",
+        "author_url": "https://www.goodreads.com/author/show/65463.Ken_Schwaber",
+        "author_id": "9a7a3e0e-f9cc-4391-9e65-31f5401e5935",
+        "author_rating": 3.91,
+        "author_rating_num": 6497,
+        "author_review_num": 423,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/65463.Ken_Schwaber?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Agile Retrospectives: Making Good Teams Great",
+                "URL": "https://www.goodreads.com/book/show/721338.Agile_Retrospectives"
+            },
+            {
+                "name": "Agile Project Management with Scrum",
+                "URL": "https://www.goodreads.com/book/show/113086.Agile_Project_Management_with_Scrum"
+            },
+            {
+                "name": "Lean Software Development: An Agile Toolkit",
+                "URL": "https://www.goodreads.com/book/show/194338.Lean_Software_Development"
+            },
+            {
+                "name": "Agile Software Development with Scrum",
+                "URL": "https://www.goodreads.com/book/show/349419.Agile_Software_Development_with_Scrum"
+            },
+            {
+                "name": "Scrum Guide",
+                "URL": "https://www.goodreads.com/book/show/12731973-scrum-guide"
+            },
+            {
+                "name": "Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust",
+                "URL": "https://www.goodreads.com/book/show/13589272-software-in-30-days"
+            },
+            {
+                "name": "The Professional Product Owner: Leveraging Scrum as a Competitive Advantage",
+                "URL": "https://www.goodreads.com/book/show/35133269-the-professional-product-owner"
+            },
+            {
+                "name": "The Enterprise and Scrum",
+                "URL": "https://www.goodreads.com/book/show/721337.The_Enterprise_and_Scrum"
+            },
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "The Nexus Framework for Scaling Scrum: Continuously Delivering an Integrated Product with Multiple Scrum Teams",
+                "URL": "https://www.goodreads.com/book/show/37422237-the-nexus-framework-for-scaling-scrum"
+            },
+            {
+                "name": "Nexus Guide",
+                "URL": "https://www.goodreads.com/book/show/26524326-nexus-guide"
+            },
+            {
+                "name": "The Scrum Papers:  Nuts, Bolts, and Origins of an Agile Process",
+                "URL": "https://www.goodreads.com/book/show/23299285-the-scrum-papers"
+            },
+            {
+                "name": "Evidence-Based Management Guide",
+                "URL": "https://www.goodreads.com/book/show/30554506-evidence-based-management-guide"
+            },
+            {
+                "name": "The Illustrated Scrum Guide",
+                "URL": "https://www.goodreads.com/book/show/37592417-the-illustrated-scrum-guide"
+            },
+            {
+                "name": "ScrumButs: The Dangers of Customizing Scrum",
+                "URL": "https://www.goodreads.com/book/show/25029608-scrumbuts"
+            },
+            {
+                "name": "Agile Project Management with Scrum Book and Online Course Bundle",
+                "URL": "https://www.goodreads.com/book/show/7950744-agile-project-management-with-scrum-book-and-online-course-bundle"
+            },
+            {
+                "name": "97 Things Every Scrum Practitioner Should Know (97 Things)",
+                "URL": "https://www.goodreads.com/book/show/49206725-97-things-every-scrum-practitioner-should-know"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/65463.Ken_Schwaber?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Ken Schwaber",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/65463.Ken_Schwaber"
+            },
+            {
+                "name": "Mike Cohn",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2620.Mike_Cohn"
+            },
+            {
+                "name": "Esther Derby",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2813.Esther_Derby"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "Philip Kotler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/37492.Philip_Kotler"
+            },
+            {
+                "name": "Kurt Bittner",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/93514.Kurt_Bittner"
+            },
+            {
+                "name": "Henrik Kniberg",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1092280.Henrik_Kniberg"
+            },
+            {
+                "name": "Jeff Sutherland",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2290725.Jeff_Sutherland"
+            },
+            {
+                "name": "Geoff Watts",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2744785.Geoff_Watts"
+            },
+            {
+                "name": "Roman Pichler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2812384.Roman_Pichler"
+            },
+            {
+                "name": "IIBA",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3022511.IIBA"
+            },
+            {
+                "name": "Lyssa Adkins",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4049618.Lyssa_Adkins"
+            },
+            {
+                "name": "David J. Pollay",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4064756.David_J_Pollay"
+            },
+            {
+                "name": "Jurgen Appelo",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4462627.Jurgen_Appelo"
+            },
+            {
+                "name": "L. David Marquet",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5813472.L_David_Marquet"
+            },
+            {
+                "name": "Gunther Verheyen",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7384271.Gunther_Verheyen"
+            },
+            {
+                "name": "Don McGreal",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/16851764.Don_McGreal"
+            },
+            {
+                "name": "Stephanie Ockerman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/16873766.Stephanie_Ockerman"
+            },
+            {
+                "name": "International Institute of Business Analysis",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/17203354.International_Institute_of_Business_Analysis"
+            }
+        ]
+    },
+    "Jeff Sutherland": {
+        "author_name": "Jeff Sutherland",
+        "author_url": "https://www.goodreads.com/author/show/2290725.Jeff_Sutherland",
+        "author_id": "d2e6df0c-5a25-4f31-8659-ee2c849429ae",
+        "author_rating": 4.17,
+        "author_rating_num": 14170,
+        "author_review_num": 1339,
+        "author_image_link": "https://images.gr-assets.com/authors/1508058646p5/2290725.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/2290725.Jeff_Sutherland?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Scrum: The Art of Doing Twice the Work in Half the Time",
+                "URL": "https://www.goodreads.com/book/show/19288230-scrum"
+            },
+            {
+                "name": "Scrum Guide",
+                "URL": "https://www.goodreads.com/book/show/12731973-scrum-guide"
+            },
+            {
+                "name": "Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust",
+                "URL": "https://www.goodreads.com/book/show/13589272-software-in-30-days"
+            },
+            {
+                "name": "The Power of Scrum",
+                "URL": "https://www.goodreads.com/book/show/13084138-the-power-of-scrum"
+            },
+            {
+                "name": "The Scrum Field Guide: Agile Advice for Your First Year and Beyond (Addison-Wesley Signature Series (Cohn))",
+                "URL": "https://www.goodreads.com/book/show/32491053-the-scrum-field-guide"
+            },
+            {
+                "name": "Product Mastery: From Good to Great Product Ownership",
+                "URL": "https://www.goodreads.com/book/show/34441174-product-mastery"
+            },
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "A Scrum Book: The Spirit of the Game",
+                "URL": "https://www.goodreads.com/book/show/45029885-a-scrum-book"
+            },
+            {
+                "name": "The Scrum Papers:  Nuts, Bolts, and Origins of an Agile Process",
+                "URL": "https://www.goodreads.com/book/show/23299285-the-scrum-papers"
+            },
+            {
+                "name": "Scrum Handbook",
+                "URL": "https://www.goodreads.com/book/show/41441311-scrum-handbook"
+            },
+            {
+                "name": "The Illustrated Scrum Guide",
+                "URL": "https://www.goodreads.com/book/show/37592417-the-illustrated-scrum-guide"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/2290725.Jeff_Sutherland?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Jeff Sutherland",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2290725.Jeff_Sutherland"
+            },
+            {
+                "name": "Mike Cohn",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2620.Mike_Cohn"
+            },
+            {
+                "name": "Roald Dahl",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4273.Roald_Dahl"
+            },
+            {
+                "name": "Patrick Lencioni",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/11503.Patrick_Lencioni"
+            },
+            {
+                "name": "David J. Anderson",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/82481.David_J_Anderson"
+            },
+            {
+                "name": "Jeffrey K. Liker",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/214426.Jeffrey_K_Liker"
+            },
+            {
+                "name": "Taiichi Ohno",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/214429.Taiichi_Ohno"
+            },
+            {
+                "name": "Jeff Kinney",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/221559.Jeff_Kinney"
+            },
+            {
+                "name": "Eric Ries",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/278960.Eric_Ries"
+            },
+            {
+                "name": "Gene Kim",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/328437.Gene_Kim"
+            },
+            {
+                "name": "Mike Burrows",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/980135.Mike_Burrows"
+            },
+            {
+                "name": "Roman Pichler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2812384.Roman_Pichler"
+            },
+            {
+                "name": "John E. Doerr",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4398861.John_E_Doerr"
+            },
+            {
+                "name": "Jurgen Appelo",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4462627.Jurgen_Appelo"
+            },
+            {
+                "name": "Klaus Leopold",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/6120922.Klaus_Leopold"
+            },
+            {
+                "name": "Dominica Degrandis",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/16627920.Dominica_Degrandis"
+            },
+            {
+                "name": "J.J.  Sutherland",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/19572903.J_J_Sutherland"
+            }
+        ]
+    },
+    "Marc Aspinall": {
+        "author_name": "Marc Aspinall",
+        "author_url": "https://www.goodreads.com/author/show/5773644.Marc_Aspinall",
+        "author_id": "661a29ce-7060-4b13-8d6a-7325dfb3c28a",
+        "author_rating": 3.71,
+        "author_rating_num": 607,
+        "author_review_num": 98,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/5773644.Marc_Aspinall?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Buffy the Vampire Slayer #6",
+                "URL": "https://www.goodreads.com/book/show/51166061-buffy-the-vampire-slayer-6"
+            },
+            {
+                "name": "Buffy the Vampire Slayer Vol. 2",
+                "URL": "https://www.goodreads.com/book/show/50512525-buffy-the-vampire-slayer-vol-2"
+            },
+            {
+                "name": "Buffy the Vampire Slayer #7",
+                "URL": "https://www.goodreads.com/book/show/47556507-buffy-the-vampire-slayer-7"
+            },
+            {
+                "name": "Buffy the Vampire Slayer #8",
+                "URL": "https://www.goodreads.com/book/show/47940227-buffy-the-vampire-slayer-8"
+            },
+            {
+                "name": "Buffy the Vampire Slayer #11",
+                "URL": "https://www.goodreads.com/book/show/50235349-buffy-the-vampire-slayer-11"
+            },
+            {
+                "name": "Buffy the Vampire Slayer #12",
+                "URL": "https://www.goodreads.com/book/show/50257678-buffy-the-vampire-slayer-12"
+            },
+            {
+                "name": "Firefly #13",
+                "URL": "https://www.goodreads.com/book/show/50282742-firefly-13"
+            },
+            {
+                "name": "Wow, I Didn't Know That: Surprising Facts About Animals",
+                "URL": "https://www.goodreads.com/book/show/15983350-wow-i-didn-t-know-that"
+            },
+            {
+                "name": "Firefly #14",
+                "URL": "https://www.goodreads.com/book/show/50282741-firefly-14"
+            },
+            {
+                "name": "Really, Really Big Questions About Me and my Body",
+                "URL": "https://www.goodreads.com/book/show/12729834-really-really-big-questions-about-me-and-my-body"
+            },
+            {
+                "name": "Really, Really Big Questions About Science",
+                "URL": "https://www.goodreads.com/book/show/18248377-really-really-big-questions-about-science"
+            },
+            {
+                "name": "Wow, I Didn't Know That: Surprising Facts About the Human Body",
+                "URL": "https://www.goodreads.com/book/show/18248375-wow-i-didn-t-know-that"
+            },
+            {
+                "name": "Hacker Monthly Special Issue: Startup Marketing",
+                "URL": "https://www.goodreads.com/book/show/18690033-hacker-monthly-special-issue"
+            },
+            {
+                "name": "Wow! Surprising Facts About Pirates",
+                "URL": "https://www.goodreads.com/book/show/18490655-wow-surprising-facts-about-pirates"
+            },
+            {
+                "name": "Wow, I Didn't Know That: Surprising Facts About the Human Body",
+                "URL": "https://www.goodreads.com/book/show/15983351-wow-i-didn-t-know-that"
+            },
+            {
+                "name": "Love and Romance: Movie Trump Cards",
+                "URL": "https://www.goodreads.com/book/show/37795674-love-and-romance"
+            },
+            {
+                "name": "Hacker Monthly Special Issue: The Debate",
+                "URL": "https://www.goodreads.com/book/show/21226180-hacker-monthly-special-issue"
+            }
+        ],
+        "related_authors_link": "",
+        "related_authors": []
+    },
+    "Gene Kim": {
+        "author_name": "Gene Kim",
+        "author_url": "https://www.goodreads.com/author/show/328437.Gene_Kim",
+        "author_id": "5f21394f-23bb-4d36-98ef-ca6c77bf4c4e",
+        "author_rating": 4.25,
+        "author_rating_num": 32773,
+        "author_review_num": 3128,
+        "author_image_link": "https://images.gr-assets.com/authors/1361113444p5/328437.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/328437.Gene_Kim?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+                "URL": "https://www.goodreads.com/book/show/17255186-the-phoenix-project"
+            },
+            {
+                "name": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/26083308-the-devops-handbook"
+            },
+            {
+                "name": "Accelerate: Building and Scaling High-Performing Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/35747076-accelerate"
+            },
+            {
+                "name": "The Unicorn Project",
+                "URL": "https://www.goodreads.com/book/show/44333183-the-unicorn-project"
+            },
+            {
+                "name": "The Visible Ops Handbook: Starting ITIL in 4 Practical Steps",
+                "URL": "https://www.goodreads.com/book/show/8978717-the-visible-ops-handbook"
+            },
+            {
+                "name": "Leading the Transformation: Applying Agile and DevOps Principles at Scale",
+                "URL": "https://www.goodreads.com/book/show/26050453-leading-the-transformation"
+            },
+            {
+                "name": "The Art Of Business Value",
+                "URL": "https://www.goodreads.com/book/show/29770283-the-art-of-business-value"
+            },
+            {
+                "name": "Beyond The Phoenix Project: The Origins and Evolution Of DevOps (Official Transcript of The Audio Series)",
+                "URL": "https://www.goodreads.com/book/show/38714647-beyond-the-phoenix-project"
+            },
+            {
+                "name": "Tribal Unity: Getting from Teams to Tribes by Creating a One Team Culture",
+                "URL": "https://www.goodreads.com/book/show/32791750-tribal-unity"
+            },
+            {
+                "name": "Visible Ops Security: Achieving Common Security and IT Operations Objectives in 4 Practical Steps",
+                "URL": "https://www.goodreads.com/book/show/3425426-visible-ops-security"
+            },
+            {
+                "name": "The Devops Handbook: Bonus Material",
+                "URL": "https://www.goodreads.com/book/show/32604942-the-devops-handbook"
+            },
+            {
+                "name": "Standing on Shoulders: A Leader's Guide to Digital Transformation",
+                "URL": "https://www.goodreads.com/book/show/43792424-standing-on-shoulders"
+            },
+            {
+                "name": "the Source - for ITSM",
+                "URL": "https://www.goodreads.com/book/show/19340687-the-source---for-itsm"
+            },
+            {
+                "name": "Das Mindset von DevOps. Accelerate: 24 Schl\u00fcsselkompetenzen, um leistungsstarke Technologieunternehmen zu entwickeln und zu skalieren",
+                "URL": "https://www.goodreads.com/book/show/51843229-das-mindset-von-devops-accelerate"
+            },
+            {
+                "name": "Lean\u3068DevOps\u306e\u79d1\u5b66\uff3bAccelerate\uff3d \u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u6226\u7565\u7684\u6d3b\u7528\u304c\u7d44\u7e54\u5909\u9769\u3092\u52a0\u901f\u3059\u308b impress top gear\u30b7\u30ea\u30fc\u30ba",
+                "URL": "https://www.goodreads.com/book/show/51844298-lean-devops-accelerate-impress-top-gear"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/328437.Gene_Kim?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Gene Kim",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/328437.Gene_Kim"
+            },
+            {
+                "name": "Robert A. Heinlein",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/205.Robert_A_Heinlein"
+            },
+            {
+                "name": "Neal Stephenson",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/545.Neal_Stephenson"
+            },
+            {
+                "name": "Josh McDowell",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4314.Josh_McDowell"
+            },
+            {
+                "name": "Srdja Trifkovic",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5541.Srdja_Trifkovic"
+            },
+            {
+                "name": "Kevin D. Mitnick",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/10953.Kevin_D_Mitnick"
+            },
+            {
+                "name": "Tsutomu Shimomura",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/10954.Tsutomu_Shimomura"
+            },
+            {
+                "name": "Randal L. Schwartz",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/49602.Randal_L_Schwartz"
+            },
+            {
+                "name": "Eliyahu M. Goldratt",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/66037.Eliyahu_M_Goldratt"
+            },
+            {
+                "name": "Mike Rother",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/86312.Mike_Rother"
+            },
+            {
+                "name": "Scott Watson",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/101033.Scott_Watson"
+            },
+            {
+                "name": "Patrick Rothfuss",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/108424.Patrick_Rothfuss"
+            },
+            {
+                "name": "Kevin Behr",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/328439.Kevin_Behr"
+            },
+            {
+                "name": "Mark Galli",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/414405.Mark_Galli"
+            },
+            {
+                "name": "Mark Schwartz",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/525006.Mark_Schwartz"
+            },
+            {
+                "name": "Dave Hitz",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2377554.Dave_Hitz"
+            },
+            {
+                "name": "Randall Munroe",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3089156.Randall_Munroe"
+            },
+            {
+                "name": "Deborah  Russell",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7314886.Deborah_Russell"
+            },
+            {
+                "name": "Betsy Beyer",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/14705355.Betsy_Beyer"
+            },
+            {
+                "name": "Dominica Degrandis",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/16627920.Dominica_Degrandis"
+            },
+            {
+                "name": "Nicole Forsgren",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/17037914.Nicole_Forsgren"
+            },
+            {
+                "name": "Mik Kersten",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/17813505.Mik_Kersten"
+            },
+            {
+                "name": "Matthew    Skelton",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/19778774.Matthew_Skelton"
+            }
+        ]
+    },
+    "Brian Marick": {
+        "author_name": "Brian Marick",
+        "author_url": "https://www.goodreads.com/author/show/184488.Brian_Marick",
+        "author_id": "365e06f2-3e0a-4ca4-bb67-c85459ce3b2a",
+        "author_rating": 3.85,
+        "author_rating_num": 1123,
+        "author_review_num": 77,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/184488.Brian_Marick?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Agile Testing: A Practical Guide for Testers and Agile Teams",
+                "URL": "https://www.goodreads.com/book/show/5341009-agile-testing"
+            },
+            {
+                "name": "Everyday Scripting with Ruby",
+                "URL": "https://www.goodreads.com/book/show/321209.Everyday_Scripting_with_Ruby"
+            },
+            {
+                "name": "Functional Programming for the Object-Oriented Programmer",
+                "URL": "https://www.goodreads.com/book/show/15752713-functional-programming-for-the-object-oriented-programmer"
+            },
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "Big Rubble: The Deadly City",
+                "URL": "https://www.goodreads.com/book/show/33138970-big-rubble"
+            },
+            {
+                "name": "The Craft of Software Testing: Subsystems Testing Including Object-Based and Object-Oriented Testing",
+                "URL": "https://www.goodreads.com/book/show/1114540.The_Craft_of_Software_Testing"
+            },
+            {
+                "name": "RubyCocoa: Bringing Some Ruby Love to OS X Programming",
+                "URL": "https://www.goodreads.com/book/show/3892682-rubycocoa"
+            },
+            {
+                "name": "An Outsider\u2019s Guide to Statically Typed Functional Programming",
+                "URL": "https://www.goodreads.com/book/show/35508708-an-outsider-s-guide-to-statically-typed-functional-programming"
+            },
+            {
+                "name": "Lenses for the Mere Mortal",
+                "URL": "https://www.goodreads.com/book/show/40019840-lenses-for-the-mere-mortal"
+            },
+            {
+                "name": "A Little Ruby, A Lot of Objects",
+                "URL": "https://www.goodreads.com/book/show/12850772-a-little-ruby-a-lot-of-objects"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/184488.Brian_Marick?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Brian Marick",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/184488.Brian_Marick"
+            },
+            {
+                "name": "Stuart Sutherland",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/81064.Stuart_Sutherland"
+            },
+            {
+                "name": "Derek Sivers",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2766361.Derek_Sivers"
+            },
+            {
+                "name": "Laurent Bossavit",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/6486877.Laurent_Bossavit"
+            },
+            {
+                "name": "Lara   Hogan",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/19133216.Lara_Hogan"
+            }
+        ]
+    },
+    "Bob Dorf": {
+        "author_name": "Bob Dorf",
+        "author_url": "https://www.goodreads.com/author/show/4770781.Bob_Dorf",
+        "author_id": "7461be51-3b22-4681-896a-0313b3bc3f41",
+        "author_rating": 4.11,
+        "author_rating_num": 9675,
+        "author_review_num": 106,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/4770781.Bob_Dorf?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company",
+                "URL": "https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual"
+            },
+            {
+                "name": "The Startup Owner's Manual Strategy Guide",
+                "URL": "https://www.goodreads.com/book/show/16045756-the-startup-owner-s-manual-strategy-guide"
+            },
+            {
+                "name": "One to One Fieldbook: The Compete Toolkit for Implementing a 1 to 1 Marketing Program",
+                "URL": "https://www.goodreads.com/book/show/11025240-one-to-one-fieldbook"
+            },
+            {
+                "name": "The Startup Owner's Manual for Web/Mobile Channel Startups (Book 3)",
+                "URL": "https://www.goodreads.com/book/show/19077673-the-startup-owner-s-manual-for-web-mobile-channel-startups"
+            },
+            {
+                "name": "The Startup Owner's Manual for Physical Channel Startups (Book 2)",
+                "URL": "https://www.goodreads.com/book/show/19077675-the-startup-owner-s-manual-for-physical-channel-startups"
+            },
+            {
+                "name": "Beginner's Guide To Painting The Nude",
+                "URL": "https://www.goodreads.com/book/show/4899973-beginner-s-guide-to-painting-the-nude"
+            },
+            {
+                "name": "Startup: Manual do Empreendedor: O guia passo a passo para construir uma grande empresa",
+                "URL": "https://www.goodreads.com/book/show/43888207-startup"
+            },
+            {
+                "name": "Das Handbuch f\u00fcr Startups: Schritt f\u00fcr Schritt zum erfolgreichen Unternehmen",
+                "URL": "https://www.goodreads.com/book/show/34841119-das-handbuch-f-r-startups"
+            },
+            {
+                "name": "Das Handbuch Fur Startups",
+                "URL": "https://www.goodreads.com/book/show/29385059-das-handbuch-fur-startups"
+            },
+            {
+                "name": "The Startup Inside Your Company: How Companies Fight Back Against Continuous Disruption",
+                "URL": "https://www.goodreads.com/book/show/17193644-the-startup-inside-your-company"
+            },
+            {
+                "name": "\u30b9\u30bf\u30fc\u30c8\u30a2\u30c3\u30d7\u30fb\u30de\u30cb\u30e5\u30a2\u30eb\uff5e\u30d9\u30f3\u30c1\u30e3\u30fc\u5275\u696d\u304b\u3089\u5927\u4f01\u696d\u306e\u65b0\u4e8b\u696d\u7acb\u3061\u4e0a\u3052\u307e\u3067",
+                "URL": "https://www.goodreads.com/book/show/19309443"
+            },
+            {
+                "name": "Startupper: Guida alla creazione di imprese innovative",
+                "URL": "https://www.goodreads.com/book/show/34593331-startupper"
+            },
+            {
+                "name": "Marketing One to One",
+                "URL": "https://www.goodreads.com/book/show/41835443-marketing-one-to-one"
+            }
+        ],
+        "related_authors_link": "",
+        "related_authors": []
+    },
+    "Steve Mellor": {
+        "author_name": "Steve Mellor",
+        "author_url": "https://www.goodreads.com/author/show/3360843.Steve_Mellor",
+        "author_id": "36f2b354-6ea3-431c-8770-51fdf97834d9",
+        "author_rating": 4.13,
+        "author_rating_num": 143,
+        "author_review_num": 6,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/3360843.Steve_Mellor?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "Peter Porker, the Spectacular Spider-Ham, Vol. 1",
+                "URL": "https://www.goodreads.com/book/show/7690726-peter-porker-the-spectacular-spider-ham-vol-1"
+            },
+            {
+                "name": "Peter Porker: The Spectacular Spider-Ham - The Complete Collection Vol. 1",
+                "URL": "https://www.goodreads.com/book/show/42873771-peter-porker"
+            },
+            {
+                "name": "Marvel Tails starring Peter Porker, The Spectacular Spider-Ham (1983) #1",
+                "URL": "https://www.goodreads.com/book/show/42427265-marvel-tails-starring-peter-porker-the-spectacular-spider-ham-1983-1"
+            },
+            {
+                "name": "Peter Porker, The Spectacular Spider-Ham (1985-1987) #17",
+                "URL": "https://www.goodreads.com/book/show/51326114-peter-porker-the-spectacular-spider-ham-1985-1987-17"
+            },
+            {
+                "name": "Peter Porker, The Spectacular Spider-Ham (1985-1987) #16",
+                "URL": "https://www.goodreads.com/book/show/46638950-peter-porker-the-spectacular-spider-ham-1985-1987-16"
+            },
+            {
+                "name": "Peter Porker, The Spectacular Spider-Ham (1985-1987) #12",
+                "URL": "https://www.goodreads.com/book/show/51036151-peter-porker-the-spectacular-spider-ham-1985-1987-12"
+            },
+            {
+                "name": "Peter Porker, The Spectacular Spider-Ham (1985-1987) #15",
+                "URL": "https://www.goodreads.com/book/show/51295043-peter-porker-the-spectacular-spider-ham-1985-1987-15"
+            },
+            {
+                "name": "Peter Porker, The Spectacular Spider-Ham (1985-1987) #6",
+                "URL": "https://www.goodreads.com/book/show/51137976-peter-porker-the-spectacular-spider-ham-1985-1987-6"
+            },
+            {
+                "name": "Peter Porker, The Spectacular Spider-Ham (1985-1987) #9",
+                "URL": "https://www.goodreads.com/book/show/51015534-peter-porker-the-spectacular-spider-ham-1985-1987-9"
+            },
+            {
+                "name": "Peter Porker, The Spectacular Spider-Ham (1985-1987) #14",
+                "URL": "https://www.goodreads.com/book/show/51180222-peter-porker-the-spectacular-spider-ham-1985-1987-14"
+            },
+            {
+                "name": "Peter Porker, The Spectacular Spider-Ham (1985-1987) #8",
+                "URL": "https://www.goodreads.com/book/show/51240252-peter-porker-the-spectacular-spider-ham-1985-1987-8"
+            },
+            {
+                "name": "Daredevil Collection",
+                "URL": "https://www.goodreads.com/book/show/40930516-daredevil-collection"
+            },
+            {
+                "name": "Daredevil Collection Vol. 10: Il Secondo Segreto",
+                "URL": "https://www.goodreads.com/book/show/42105430-daredevil-collection-vol-10"
+            },
+            {
+                "name": "Spider-Man: Spider-Verse - Spider-Ham",
+                "URL": "https://www.goodreads.com/book/show/49049401-spider-man"
+            }
+        ],
+        "related_authors_link": "",
+        "related_authors": []
+    },
+    "Gary Bernhardt": {
+        "author_name": "Gary Bernhardt",
+        "author_url": "https://www.goodreads.com/author/show/7988602.Gary_Bernhardt",
+        "author_id": "01ec555d-bcee-4f37-bc4d-7350549a7016",
+        "author_rating": 0.0,
+        "author_rating_num": 0,
+        "author_review_num": 0,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/7988602.Gary_Bernhardt?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Hacker Monthly Special Issue: The Debate",
+                "URL": "https://www.goodreads.com/book/show/21226180-hacker-monthly-special-issue"
+            }
+        ],
+        "related_authors_link": "",
+        "related_authors": []
+    },
+    "Kent Beck": {
+        "author_name": "Kent Beck",
+        "author_url": "https://www.goodreads.com/author/show/25211.Kent_Beck",
+        "author_id": "d2400777-118a-40c1-b704-ba97769ea731",
+        "author_rating": 4.09,
+        "author_rating_num": 16486,
+        "author_review_num": 736,
+        "author_image_link": "https://images.gr-assets.com/authors/1345546877p5/25211.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/25211.Kent_Beck?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Refactoring: Improving the Design of Existing Code",
+                "URL": "https://www.goodreads.com/book/show/44936.Refactoring"
+            },
+            {
+                "name": "Test Driven Development: By Example",
+                "URL": "https://www.goodreads.com/book/show/387190.Test_Driven_Development"
+            },
+            {
+                "name": "Extreme Programming Explained: Embrace Change (The XP Series)",
+                "URL": "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained"
+            },
+            {
+                "name": "User Stories Applied: For Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/3856.User_Stories_Applied"
+            },
+            {
+                "name": "Implementation Patterns",
+                "URL": "https://www.goodreads.com/book/show/781559.Implementation_Patterns"
+            },
+            {
+                "name": "Planning Extreme Programming",
+                "URL": "https://www.goodreads.com/book/show/67839.Planning_Extreme_Programming"
+            },
+            {
+                "name": "Smalltalk Best Practice Patterns",
+                "URL": "https://www.goodreads.com/book/show/781561.Smalltalk_Best_Practice_Patterns"
+            },
+            {
+                "name": "Refactoring: Ruby Edition, Adobe Reader",
+                "URL": "https://www.goodreads.com/book/show/11560939-refactoring"
+            },
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "JUnit Pocket Guide",
+                "URL": "https://www.goodreads.com/book/show/2166423.JUnit_Pocket_Guide"
+            },
+            {
+                "name": "Contributing to Eclipse: Principles, Patterns, and Plug-Ins",
+                "URL": "https://www.goodreads.com/book/show/310630.Contributing_to_Eclipse"
+            },
+            {
+                "name": "Using Uml:Software Engineering with Objects and Components (Updated Edition) with Extreme Programming Explained:Embrace Change",
+                "URL": "https://www.goodreads.com/book/show/21063252-using-uml"
+            },
+            {
+                "name": "Kent Beck's Guide to Better Smalltalk",
+                "URL": "https://www.goodreads.com/book/show/781560.Kent_Beck_s_Guide_to_Better_Smalltalk"
+            },
+            {
+                "name": "Requirements Analysis And System Design: Developing Information Systems With Uml: And Extreme Programming Explained   Embrace Change",
+                "URL": "https://www.goodreads.com/book/show/1001607.Requirements_Analysis_And_System_Design"
+            },
+            {
+                "name": "CRC: The Essence of Objects",
+                "URL": "https://www.goodreads.com/book/show/14796490-crc"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/25211.Kent_Beck?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "Chad Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/302.Chad_Fowler"
+            },
+            {
+                "name": "Mike Cohn",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2620.Mike_Cohn"
+            },
+            {
+                "name": "Esther Derby",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2813.Esther_Derby"
+            },
+            {
+                "name": "Andy Hunt",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2815.Andy_Hunt"
+            },
+            {
+                "name": "Michael T. Nygard",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/6089.Michael_T_Nygard"
+            },
+            {
+                "name": "Scott Rosenberg",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/18257.Scott_Rosenberg"
+            },
+            {
+                "name": "Michael C. Feathers",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25201.Michael_C_Feathers"
+            },
+            {
+                "name": "Martin Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25215.Martin_Fowler"
+            },
+            {
+                "name": "Eric Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/32731.Eric_Freeman"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Erich Gamma",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48622.Erich_Gamma"
+            },
+            {
+                "name": "Joshua Kerievsky",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48660.Joshua_Kerievsky"
+            },
+            {
+                "name": "Joshua Bloch",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/60805.Joshua_Bloch"
+            },
+            {
+                "name": "Eric Evans",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/104368.Eric_Evans"
+            },
+            {
+                "name": "Peter Seibel",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/312165.Peter_Seibel"
+            },
+            {
+                "name": "Jez Humble",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4149510.Jez_Humble"
+            }
+        ]
+    },
+    "Henrik Kniberg": {
+        "author_name": "Henrik Kniberg",
+        "author_url": "https://www.goodreads.com/author/show/1092280.Henrik_Kniberg",
+        "author_id": "bc4cb7c0-0fc1-490b-8e67-f2f7a31c0fe1",
+        "author_rating": 4.12,
+        "author_rating_num": 3497,
+        "author_review_num": 252,
+        "author_image_link": "https://images.gr-assets.com/authors/1358093337p5/1092280.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/1092280.Henrik_Kniberg?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Scrum and XP from the Trenches",
+                "URL": "https://www.goodreads.com/book/show/2455391.Scrum_and_XP_from_the_Trenches"
+            },
+            {
+                "name": "Kanban and Scrum - Making the Most of Both",
+                "URL": "https://www.goodreads.com/book/show/8167480-kanban-and-scrum---making-the-most-of-both"
+            },
+            {
+                "name": "Lean from the Trenches",
+                "URL": "https://www.goodreads.com/book/show/12693642-lean-from-the-trenches"
+            },
+            {
+                "name": "How to run an internal unconference",
+                "URL": "https://www.goodreads.com/book/show/18469537-how-to-run-an-internal-unconference"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/1092280.Henrik_Kniberg?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Henrik Kniberg",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1092280.Henrik_Kniberg"
+            },
+            {
+                "name": "Mike Cohn",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2620.Mike_Cohn"
+            },
+            {
+                "name": "Esther Derby",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2813.Esther_Derby"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "37 Signals",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/42537.37_Signals"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Ken Schwaber",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/65463.Ken_Schwaber"
+            },
+            {
+                "name": "Donald G. Reinertsen",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/77659.Donald_G_Reinertsen"
+            },
+            {
+                "name": "David J. Anderson",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/82481.David_J_Anderson"
+            },
+            {
+                "name": "Eric Ries",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/278960.Eric_Ries"
+            },
+            {
+                "name": "Laura Klein",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/381043.Laura_Klein"
+            },
+            {
+                "name": "Matt Blumberg",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/515054.Matt_Blumberg"
+            },
+            {
+                "name": "Sarah Lacy",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1030535.Sarah_Lacy"
+            },
+            {
+                "name": "Jeff Sutherland",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2290725.Jeff_Sutherland"
+            },
+            {
+                "name": "Corey Ladas",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2790797.Corey_Ladas"
+            },
+            {
+                "name": "Roman Pichler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2812384.Roman_Pichler"
+            },
+            {
+                "name": "Roy Osherove",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2938301.Roy_Osherove"
+            },
+            {
+                "name": "Rachel Davies",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2974370.Rachel_Davies"
+            },
+            {
+                "name": "Brant Cooper",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3980307.Brant_Cooper"
+            },
+            {
+                "name": "Brad Feld",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4395710.Brad_Feld"
+            },
+            {
+                "name": "Jurgen Appelo",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4462627.Jurgen_Appelo"
+            },
+            {
+                "name": "David G. Cohen",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5648933.David_G_Cohen"
+            },
+            {
+                "name": "Ben Horowitz",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7155094.Ben_Horowitz"
+            },
+            {
+                "name": "Gabriel Weinberg",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7754157.Gabriel_Weinberg"
+            },
+            {
+                "name": "Peter Thiel",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/8474721.Peter_Thiel"
+            }
+        ]
+    },
+    "Eric Evans": {
+        "author_name": "Eric Evans",
+        "author_url": "https://www.goodreads.com/author/show/104368.Eric_Evans",
+        "author_id": "6a7fe474-0290-4fbb-9dd0-0fe75d15f54b",
+        "author_rating": 4.14,
+        "author_rating_num": 3942,
+        "author_review_num": 181,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/104368.Eric_Evans?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+                "URL": "https://www.goodreads.com/book/show/179133.Domain_Driven_Design"
+            },
+            {
+                "name": "Domain-Driven Design Reference: Definitions and Pattern Summaries",
+                "URL": "https://www.goodreads.com/book/show/23322716-domain-driven-design-reference"
+            },
+            {
+                "name": "Anobium: Volume One [Summer 2011]",
+                "URL": "https://www.goodreads.com/book/show/12541292-anobium"
+            },
+            {
+                "name": "Unexpected Allies",
+                "URL": "https://www.goodreads.com/book/show/13421370-unexpected-allies"
+            },
+            {
+                "name": "Liberty's Vigil, The Occupy Anthology: 99 Poets among the 99%",
+                "URL": "https://www.goodreads.com/book/show/13541981-liberty-s-vigil-the-occupy-anthology"
+            },
+            {
+                "name": "So Far from Home",
+                "URL": "https://www.goodreads.com/book/show/4885462-so-far-from-home"
+            },
+            {
+                "name": "Mastering Negotiations: Break Stalemates, Defuse Conflicts and Give Yourself the Edge",
+                "URL": "https://www.goodreads.com/book/show/1879001.Mastering_Negotiations"
+            },
+            {
+                "name": "The Art of Academic Finesse: How Ordinary Students Achieve Extraordinary Grades",
+                "URL": "https://www.goodreads.com/book/show/179141.The_Art_of_Academic_Finesse"
+            },
+            {
+                "name": "Implementing E-Procurement: A Hawksmere Special Briefing",
+                "URL": "https://www.goodreads.com/book/show/14512955-implementing-e-procurement"
+            },
+            {
+                "name": "The Literary Art Of Eugene Fromentin: A Study In Style And Motif",
+                "URL": "https://www.goodreads.com/book/show/1600342.The_Literary_Art_Of_Eugene_Fromentin"
+            },
+            {
+                "name": "Murder Is Not An Option (Mary's Creek Books Book 1)",
+                "URL": "https://www.goodreads.com/book/show/30543361-murder-is-not-an-option"
+            },
+            {
+                "name": "Mental Toughness Training for Cross Country",
+                "URL": "https://www.goodreads.com/book/show/3723979-mental-toughness-training-for-cross-country"
+            },
+            {
+                "name": "A Parragon Micropedia British History",
+                "URL": "https://www.goodreads.com/book/show/42974615-a-parragon-micropedia-british-history"
+            },
+            {
+                "name": "The Adventures of Ninja T and Waki Poon",
+                "URL": "https://www.goodreads.com/book/show/41840685-the-adventures-of-ninja-t-and-waki-poon"
+            },
+            {
+                "name": "Peace in Motion: John Dewey and the Aesthetics of Well-Being",
+                "URL": "https://www.goodreads.com/book/show/31492190-peace-in-motion"
+            },
+            {
+                "name": "Rout Hist Euro 1455-1991 W/Cht",
+                "URL": "https://www.goodreads.com/book/show/8223991-rout-hist-euro-1455-1991-w-cht"
+            },
+            {
+                "name": "Contemporary Britain 1914-1979",
+                "URL": "https://www.goodreads.com/book/show/21064067-contemporary-britain-1914-1979"
+            },
+            {
+                "name": "Peace in Motion: John Dewey and the Aesthetics of Well-Being",
+                "URL": "https://www.goodreads.com/book/show/28779791-peace-in-motion"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/104368.Eric_Evans?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Eric Evans",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/104368.Eric_Evans"
+            },
+            {
+                "name": "Chad Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/302.Chad_Fowler"
+            },
+            {
+                "name": "Andy Hunt",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2815.Andy_Hunt"
+            },
+            {
+                "name": "Steve McConnell",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3307.Steve_McConnell"
+            },
+            {
+                "name": "Michael T. Nygard",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/6089.Michael_T_Nygard"
+            },
+            {
+                "name": "Michael C. Feathers",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25201.Michael_C_Feathers"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "Martin Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25215.Martin_Fowler"
+            },
+            {
+                "name": "Eric Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/32731.Eric_Freeman"
+            },
+            {
+                "name": "Tom DeMarco",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/38238.Tom_DeMarco"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Erich Gamma",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48622.Erich_Gamma"
+            },
+            {
+                "name": "Gregor Hohpe",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48627.Gregor_Hohpe"
+            },
+            {
+                "name": "Joshua Kerievsky",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48660.Joshua_Kerievsky"
+            },
+            {
+                "name": "Joshua Bloch",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/60805.Joshua_Bloch"
+            },
+            {
+                "name": "Brian Goetz",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/73409.Brian_Goetz"
+            },
+            {
+                "name": "Neal Ford",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/715981.Neal_Ford"
+            },
+            {
+                "name": "Frederick P. Brooks Jr.",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3174788.Frederick_P_Brooks_Jr_"
+            },
+            {
+                "name": "Sam Newman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3362774.Sam_Newman"
+            },
+            {
+                "name": "Jez Humble",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4149510.Jez_Humble"
+            },
+            {
+                "name": "Vaughn Vernon",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/6444097.Vaughn_Vernon"
+            },
+            {
+                "name": "Martin Kleppmann",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7969625.Martin_Kleppmann"
+            },
+            {
+                "name": "Steve  Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/9824504.Steve_Freeman"
+            }
+        ]
+    },
+    "Mike Beedle": {
+        "author_name": "Mike Beedle",
+        "author_url": "https://www.goodreads.com/author/show/200490.Mike_Beedle",
+        "author_id": "d2fe6408-81af-489a-9dc7-e4a91abb285b",
+        "author_rating": 3.86,
+        "author_rating_num": 959,
+        "author_review_num": 56,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/200490.Mike_Beedle?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Agile Software Development with Scrum",
+                "URL": "https://www.goodreads.com/book/show/349419.Agile_Software_Development_with_Scrum"
+            },
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "Enterprise Architectural Patterns: Building Blocks of the Agile Company",
+                "URL": "https://www.goodreads.com/book/show/28127175-enterprise-architectural-patterns"
+            },
+            {
+                "name": "Enterprise Scrum: An Adaptive Method for Project Success",
+                "URL": "https://www.goodreads.com/book/show/17350033-enterprise-scrum"
+            }
+        ],
+        "related_authors_link": "",
+        "related_authors": []
+    },
+    "Mike Cohn": {
+        "author_name": "Mike Cohn",
+        "author_url": "https://www.goodreads.com/author/show/2620.Mike_Cohn",
+        "author_id": "c03b8ad1-7354-4a06-a029-6701c0994c75",
+        "author_rating": 3.97,
+        "author_rating_num": 7270,
+        "author_review_num": 372,
+        "author_image_link": "https://images.gr-assets.com/authors/1358094111p5/2620.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/2620.Mike_Cohn?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "User Stories Applied: For Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/3856.User_Stories_Applied"
+            },
+            {
+                "name": "Agile Estimating and Planning",
+                "URL": "https://www.goodreads.com/book/show/9267.Agile_Estimating_and_Planning"
+            },
+            {
+                "name": "Succeeding with Agile: Software Development Using Scrum",
+                "URL": "https://www.goodreads.com/book/show/6707987-succeeding-with-agile"
+            },
+            {
+                "name": "Agile Testing: A Practical Guide for Testers and Agile Teams",
+                "URL": "https://www.goodreads.com/book/show/5341009-agile-testing"
+            },
+            {
+                "name": "Scrum Mastery: Von Gutem zu Grossartigem Servant Leadership",
+                "URL": "https://www.goodreads.com/book/show/33518124-scrum-mastery"
+            },
+            {
+                "name": "Situational Scrum Mastering: Leading an Agile Team",
+                "URL": "https://www.goodreads.com/book/show/38190444-situational-scrum-mastering"
+            },
+            {
+                "name": "Java Developer's Reference: With CDROM",
+                "URL": "https://www.goodreads.com/book/show/9270.Java_Developer_s_Reference"
+            },
+            {
+                "name": "Database Developers Guide with Borland C++ 5: With CDROM",
+                "URL": "https://www.goodreads.com/book/show/9275.Database_Developers_Guide_with_Borland_C_5"
+            },
+            {
+                "name": "Surviving the Daily Scrum",
+                "URL": "https://www.goodreads.com/book/show/37560147-surviving-the-daily-scrum"
+            },
+            {
+                "name": "Passing the Torch: Succession, Retirement, and Estate Planning in Family-Owned Businesses",
+                "URL": "https://www.goodreads.com/book/show/9820167-passing-the-torch"
+            },
+            {
+                "name": "Sams Teach Yourself Visual Caf\u00e9 2 in 21 Days",
+                "URL": "https://www.goodreads.com/book/show/9271.Sams_Teach_Yourself_Visual_Caf_2_in_21_Days"
+            },
+            {
+                "name": "Seidenstra\u00dfe: La\u0308nder Der Seidenstrassen; Irak, Iran, Afghanistan, Pakistan, Zentralasien; Autokarte; Touristische Informationen, Entfernungen In Km, Nationalparks; Ortsregister = Silk Road Countries = Chemin De La Soie.",
+                "URL": "https://www.goodreads.com/book/show/9272.Seidenstra_e"
+            },
+            {
+                "name": "Web Programming with Latte",
+                "URL": "https://www.goodreads.com/book/show/9274.Web_Programming_with_Latte"
+            },
+            {
+                "name": "Teach Yourself Visual Cafe in 21 Days",
+                "URL": "https://www.goodreads.com/book/show/15692929-teach-yourself-visual-cafe-in-21-days"
+            },
+            {
+                "name": "Keep or Sell Your Business: How to Make the Decision Every Private Company Faces",
+                "URL": "https://www.goodreads.com/book/show/9269.Keep_or_Sell_Your_Business"
+            },
+            {
+                "name": "Passing the Torch: Transfer Strategies for Your Family Business",
+                "URL": "https://www.goodreads.com/book/show/15147766-passing-the-torch"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/2620.Mike_Cohn?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Mike Cohn",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2620.Mike_Cohn"
+            },
+            {
+                "name": "Janet Evanovich",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2384.Janet_Evanovich"
+            },
+            {
+                "name": "Esther Derby",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2813.Esther_Derby"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "David J. Anderson",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/82481.David_J_Anderson"
+            },
+            {
+                "name": "Jeff Patton",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/184921.Jeff_Patton"
+            },
+            {
+                "name": "Eric Ries",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/278960.Eric_Ries"
+            },
+            {
+                "name": "Laura Klein",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/381043.Laura_Klein"
+            },
+            {
+                "name": "Steve Blank",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/402425.Steve_Blank"
+            },
+            {
+                "name": "Henrik Kniberg",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1092280.Henrik_Kniberg"
+            },
+            {
+                "name": "Marty Cagan",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1405323.Marty_Cagan"
+            },
+            {
+                "name": "Roman Pichler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2812384.Roman_Pichler"
+            },
+            {
+                "name": "Alistair Croll",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2857625.Alistair_Croll"
+            },
+            {
+                "name": "Jonathan Rasmusson",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4022260.Jonathan_Rasmusson"
+            },
+            {
+                "name": "Lyssa Adkins",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4049618.Lyssa_Adkins"
+            },
+            {
+                "name": "Jurgen Appelo",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4462627.Jurgen_Appelo"
+            },
+            {
+                "name": "Ash Maurya",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5339404.Ash_Maurya"
+            },
+            {
+                "name": "Jeff Gothelf",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5607117.Jeff_Gothelf"
+            }
+        ]
+    },
+    "Ward Cunningham": {
+        "author_name": "Ward Cunningham",
+        "author_url": "https://www.goodreads.com/author/show/2618.Ward_Cunningham",
+        "author_id": "9e54b13b-7777-4b35-b0a3-e7dd203fe638",
+        "author_rating": 3.85,
+        "author_rating_num": 373,
+        "author_review_num": 15,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/2618.Ward_Cunningham?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Analysis Patterns: Reusable Object Models",
+                "URL": "https://www.goodreads.com/book/show/85002.Analysis_Patterns"
+            },
+            {
+                "name": "Manifesto for Agile Software Development",
+                "URL": "https://www.goodreads.com/book/show/25109583-manifesto-for-agile-software-development"
+            },
+            {
+                "name": "Fit for Developing Software: Framework for Integrated Tests",
+                "URL": "https://www.goodreads.com/book/show/3855.Fit_for_Developing_Software"
+            },
+            {
+                "name": "The Wiki Way: Collaboration and Sharing on the Internet [With CDROM]",
+                "URL": "https://www.goodreads.com/book/show/941370.The_Wiki_Way"
+            },
+            {
+                "name": "Enterprise Solution Patterns Using Microsoft(r) .Net",
+                "URL": "https://www.goodreads.com/book/show/10091454-enterprise-solution-patterns-using-microsoft-r-net"
+            },
+            {
+                "name": "The Dayton Experiment: How a public school in rural Oregon reimagined education, unleashed its students\u2019 creative potential, and became a model for the nation",
+                "URL": "https://www.goodreads.com/book/show/51311788-the-dayton-experiment"
+            }
+        ],
+        "related_authors_link": "",
+        "related_authors": []
+    },
+    "Jez Humble": {
+        "author_name": "Jez Humble",
+        "author_url": "https://www.goodreads.com/author/show/4149510.Jez_Humble",
+        "author_id": "2c33a1a7-87b0-4b97-be04-fd57168c0a7a",
+        "author_rating": 4.21,
+        "author_rating_num": 8864,
+        "author_review_num": 678,
+        "author_image_link": "https://images.gr-assets.com/authors/1419711607p5/4149510.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/4149510.Jez_Humble?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation",
+                "URL": "https://www.goodreads.com/book/show/8686650-continuous-delivery"
+            },
+            {
+                "name": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/26083308-the-devops-handbook"
+            },
+            {
+                "name": "Accelerate: Building and Scaling High-Performing Technology Organizations",
+                "URL": "https://www.goodreads.com/book/show/35747076-accelerate"
+            },
+            {
+                "name": "Lean Enterprise: How High Performance Organizations Innovate at Scale",
+                "URL": "https://www.goodreads.com/book/show/18167218-lean-enterprise"
+            },
+            {
+                "name": "Start and Scaling Devops in the Enterprise",
+                "URL": "https://www.goodreads.com/book/show/32799947-start-and-scaling-devops-in-the-enterprise"
+            },
+            {
+                "name": "The Devops Handbook: Bonus Material",
+                "URL": "https://www.goodreads.com/book/show/32604942-the-devops-handbook"
+            },
+            {
+                "name": "Modern Web Operations",
+                "URL": "https://www.goodreads.com/book/show/36199441-modern-web-operations"
+            },
+            {
+                "name": "Building an Optimized Business",
+                "URL": "https://www.goodreads.com/book/show/34849570-building-an-optimized-business"
+            },
+            {
+                "name": "\u7d99\u7d9a\u7684\u30c7\u30ea\u30d0\u30ea\u30fc\u3000\u4fe1\u983c\u3067\u304d\u308b\u30bd\u30d5\u30c8\u30a6\u30a8\u30a2\u30ea\u30ea\u30fc\u30b9\u306e\u305f\u3081\u306e\u30d3\u30eb\u30c9\u30fb\u30c6\u30b9\u30c8\u30fb\u30c7\u30d7\u30ed\u30a4\u30e1\u30f3\u30c8\u306e\u81ea\u52d5\u5316",
+                "URL": "https://www.goodreads.com/book/show/51939759"
+            },
+            {
+                "name": "Das Mindset von DevOps. Accelerate: 24 Schl\u00fcsselkompetenzen, um leistungsstarke Technologieunternehmen zu entwickeln und zu skalieren",
+                "URL": "https://www.goodreads.com/book/show/51843229-das-mindset-von-devops-accelerate"
+            },
+            {
+                "name": "Lean\u3068DevOps\u306e\u79d1\u5b66\uff3bAccelerate\uff3d \u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u6226\u7565\u7684\u6d3b\u7528\u304c\u7d44\u7e54\u5909\u9769\u3092\u52a0\u901f\u3059\u308b impress top gear\u30b7\u30ea\u30fc\u30ba",
+                "URL": "https://www.goodreads.com/book/show/51844298-lean-devops-accelerate-impress-top-gear"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/4149510.Jez_Humble?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Jez Humble",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4149510.Jez_Humble"
+            },
+            {
+                "name": "Clayton M. Christensen",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1792.Clayton_M_Christensen"
+            },
+            {
+                "name": "Mike Cohn",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2620.Mike_Cohn"
+            },
+            {
+                "name": "Andy Hunt",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2815.Andy_Hunt"
+            },
+            {
+                "name": "Michael T. Nygard",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/6089.Michael_T_Nygard"
+            },
+            {
+                "name": "Michael C. Feathers",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25201.Michael_C_Feathers"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "Martin Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25215.Martin_Fowler"
+            },
+            {
+                "name": "Eric Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/32731.Eric_Freeman"
+            },
+            {
+                "name": "Tom DeMarco",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/38238.Tom_DeMarco"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Erich Gamma",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48622.Erich_Gamma"
+            },
+            {
+                "name": "Donald G. Reinertsen",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/77659.Donald_G_Reinertsen"
+            },
+            {
+                "name": "David J. Anderson",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/82481.David_J_Anderson"
+            },
+            {
+                "name": "Eric Evans",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/104368.Eric_Evans"
+            },
+            {
+                "name": "Eric Ries",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/278960.Eric_Ries"
+            },
+            {
+                "name": "Gene Kim",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/328437.Gene_Kim"
+            },
+            {
+                "name": "Laura Klein",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/381043.Laura_Klein"
+            },
+            {
+                "name": "Alistair Croll",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2857625.Alistair_Croll"
+            },
+            {
+                "name": "Sam Newman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3362774.Sam_Newman"
+            },
+            {
+                "name": "Jurgen Appelo",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4462627.Jurgen_Appelo"
+            },
+            {
+                "name": "Ash Maurya",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5339404.Ash_Maurya"
+            },
+            {
+                "name": "Steve  Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/9824504.Steve_Freeman"
+            },
+            {
+                "name": "Betsy Beyer",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/14705355.Betsy_Beyer"
+            },
+            {
+                "name": "Nicole Forsgren",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/17037914.Nicole_Forsgren"
+            }
+        ]
+    },
+    "Vaughn Vernon": {
+        "author_name": "Vaughn Vernon",
+        "author_url": "https://www.goodreads.com/author/show/6444097.Vaughn_Vernon",
+        "author_id": "03fc7049-00ee-4b5c-9901-841237d32276",
+        "author_rating": 3.94,
+        "author_rating_num": 1445,
+        "author_review_num": 133,
+        "author_image_link": "",
+        "author_books_link": "https://www.goodreads.com/author/list/6444097.Vaughn_Vernon?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Implementing Domain-Driven Design",
+                "URL": "https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design"
+            },
+            {
+                "name": "Domain-Driven Design Distilled",
+                "URL": "https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled"
+            },
+            {
+                "name": "Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka",
+                "URL": "https://www.goodreads.com/book/show/22251127-reactive-messaging-patterns-with-the-actor-model"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/6444097.Vaughn_Vernon?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "Vaughn Vernon",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/6444097.Vaughn_Vernon"
+            },
+            {
+                "name": "Dan Simmons",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2687.Dan_Simmons"
+            },
+            {
+                "name": "Andy Hunt",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2815.Andy_Hunt"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "Martin Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25215.Martin_Fowler"
+            },
+            {
+                "name": "Eric Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/32731.Eric_Freeman"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Erich Gamma",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48622.Erich_Gamma"
+            },
+            {
+                "name": "Joshua Kerievsky",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/48660.Joshua_Kerievsky"
+            },
+            {
+                "name": "Benjamin C. Pierce",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/64948.Benjamin_C_Pierce"
+            },
+            {
+                "name": "Eric Evans",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/104368.Eric_Evans"
+            },
+            {
+                "name": "Martin Odersky",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/666527.Martin_Odersky"
+            },
+            {
+                "name": "Neal Ford",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/715981.Neal_Ford"
+            },
+            {
+                "name": "Scott Millett",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3063746.Scott_Millett"
+            },
+            {
+                "name": "Sam Newman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3362774.Sam_Newman"
+            },
+            {
+                "name": "Simon Marlow",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5827559.Simon_Marlow"
+            },
+            {
+                "name": "Adam L. Davis",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7382609.Adam_L_Davis"
+            },
+            {
+                "name": "Martin Kleppmann",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7969625.Martin_Kleppmann"
+            },
+            {
+                "name": "Vincent Theron",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/15305452.Vincent_Theron"
+            },
+            {
+                "name": "Nicole Forsgren",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/17037914.Nicole_Forsgren"
+            }
+        ]
+    },
+    "John Z. Sonmez": {
+        "author_name": "John Z. Sonmez",
+        "author_url": "https://www.goodreads.com/author/show/8565253.John_Z_Sonmez",
+        "author_id": "f9fc2b90-1fa1-440f-aa1a-945a1b3bd654",
+        "author_rating": 3.97,
+        "author_rating_num": 2960,
+        "author_review_num": 356,
+        "author_image_link": "https://images.gr-assets.com/authors/1491491803p5/8565253.jpg",
+        "author_books_link": "https://www.goodreads.com/author/list/8565253.John_Z_Sonmez?page=1&per_page=10000",
+        "books_by_author": [
+            {
+                "name": "Soft Skills: The Software Developer's Life Manual",
+                "URL": "https://www.goodreads.com/book/show/23232941-soft-skills"
+            },
+            {
+                "name": "The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job",
+                "URL": "https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide"
+            },
+            {
+                "name": "Stop Being Lazy: How to Overcome Laziness, Defeat Procrastination, Increase Productivity, and Break Through Barriers Like an Unstoppable Bulldog",
+                "URL": "https://www.goodreads.com/book/show/41805650-stop-being-lazy"
+            },
+            {
+                "name": "Why Marketing Yourself is Important",
+                "URL": "https://www.goodreads.com/book/show/24122391-why-marketing-yourself-is-important"
+            }
+        ],
+        "related_authors_link": "https://www.goodreads.com/author/similar/8565253.John_Z_Sonmez?page=1&per_page=10000",
+        "related_authors": [
+            {
+                "name": "John Z. Sonmez",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/8565253.John_Z_Sonmez"
+            },
+            {
+                "name": "Andy Hunt",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/2815.Andy_Hunt"
+            },
+            {
+                "name": "Steve McConnell",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/3307.Steve_McConnell"
+            },
+            {
+                "name": "Scott Adams",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5282.Scott_Adams"
+            },
+            {
+                "name": "Anthony Robbins",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/5627.Anthony_Robbins"
+            },
+            {
+                "name": "Michael C. Feathers",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25201.Michael_C_Feathers"
+            },
+            {
+                "name": "Kent Beck",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25211.Kent_Beck"
+            },
+            {
+                "name": "Martin Fowler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/25215.Martin_Fowler"
+            },
+            {
+                "name": "Eric Freeman",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/32731.Eric_Freeman"
+            },
+            {
+                "name": "Robert C. Martin",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/45372.Robert_C_Martin"
+            },
+            {
+                "name": "Robert A. Glover",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/56130.Robert_A_Glover"
+            },
+            {
+                "name": "Gene Kim",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/328437.Gene_Kim"
+            },
+            {
+                "name": "John Resig",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/355208.John_Resig"
+            },
+            {
+                "name": "Jack   Donovan",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/442900.Jack_Donovan"
+            },
+            {
+                "name": "Douglas Crockford",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/1290380.Douglas_Crockford"
+            },
+            {
+                "name": "Brian Christian",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4199891.Brian_Christian"
+            },
+            {
+                "name": "Gayle Laakmann McDowell",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/4692311.Gayle_Laakmann_McDowell"
+            },
+            {
+                "name": "Sandro Mancuso",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7127583.Sandro_Mancuso"
+            },
+            {
+                "name": "James Clear",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7327369.James_Clear"
+            },
+            {
+                "name": "Rollo Tomassi",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/7328259.Rollo_Tomassi"
+            },
+            {
+                "name": "Aditya Y. Bhargava",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/8423673.Aditya_Y_Bhargava"
+            },
+            {
+                "name": "Jesse Itzler",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/13569473.Jesse_Itzler"
+            },
+            {
+                "name": "Martin Meadows",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/13580949.Martin_Meadows"
+            },
+            {
+                "name": "Edmond Lau",
+                "URL": "https://www.goodreads.comhttps://www.goodreads.com/author/show/13733186.Edmond_Lau"
+            }
+        ]
+    }
+}

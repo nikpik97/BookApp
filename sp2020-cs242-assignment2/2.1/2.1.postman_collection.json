@@ -1,0 +1,718 @@
+{
+	"info": {
+		"_postman_id": "2e682f01-c8fc-4c27-a2cd-c108822b123e",
+		"name": "2.1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "get author tests",
+			"item": [
+				{
+					"name": "get author by name with regex",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/author?format=html&name=Vaughn|Vernon",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"author"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								},
+								{
+									"key": "name",
+									"value": "Vaughn|Vernon"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get author by book_title",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/author?format=json&book_title=Scrum Guide",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"author"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "json"
+								},
+								{
+									"key": "book_title",
+									"value": "Scrum Guide"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "get book tests",
+			"item": [
+				{
+					"name": "get book by author with regex",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/book?format=json&author=Vaughn|Vernon",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"book"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "json"
+								},
+								{
+									"key": "author",
+									"value": "Vaughn|Vernon"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get book by author",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/book?format=json&author=Vaughn Vernon",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"book"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "json"
+								},
+								{
+									"key": "author",
+									"value": "Vaughn Vernon"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get book by title",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/book?format=json&title=Scrum and XP from the Trenches",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"book"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "json"
+								},
+								{
+									"key": "title",
+									"value": "Scrum and XP from the Trenches"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get book by related_book",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/book?format=json&related_book=Domain-Driven Design: Tackling Complexity in the Heart of Software",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"book"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "json"
+								},
+								{
+									"key": "related_book",
+									"value": "Domain-Driven Design: Tackling Complexity in the Heart of Software"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "test all author functions",
+			"item": [
+				{
+					"name": "post a single author",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n     \"J.K. Rowling\": {\r\n        \"author_name\":  \"J.K. Rowling\",\r\n        \"author_url\": \"https://www.goodreads.com/author/show/1077326.J_K_Rowling\",\r\n        \"author_id\": \"c1d9addd-94a9-478b-b134-d68e8082a65f\",\r\n        \"author_rating\": 4.20,\r\n        \"author_rating_num\": 6969420420,\r\n        \"author_review_num\": 6969420420,\r\n        \"author_image_link\": \"https://images.gr-assets.com/authors/1510435123p5/1077326.jpg\",\r\n        \"author_books_link\": \"https://www.goodreads.com/author/show/1077326.J_K_Rowling\",\r\n        \"books_by_author\": [\r\n            {\r\n                \"name\": \"Harry Potter and the Chamber of Secrets\",\r\n                \"URL\": \"https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets\"\r\n            },\r\n            {\r\n                \"name\": \"Fantastic Beasts and Where to Find Them (Hogwarts Library)\",\r\n                \"URL\": \"https://www.goodreads.com/book/show/41899.Fantastic_Beasts_and_Where_to_Find_Them\"\r\n            }\r\n        ],\r\n        \"related_authors_link\": \"\",\r\n        \"related_authors\": []\r\n    }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "127.0.0.1:5000/api/author?format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"author"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get posted author",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/author?name=J.K. Rowling&format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"author"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "J.K. Rowling"
+								},
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "modify posted author",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"author_image\": \"google.com\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "127.0.0.1:5000/api/author?name=Rowling&format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"author"
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "Rowling"
+								},
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "delete posted author",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/author?format=html&name=Rowling",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"author"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								},
+								{
+									"key": "name",
+									"value": "Rowling"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "test all book funstions",
+			"item": [
+				{
+					"name": "post a single book",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"Harry Potter and the Chamber of Secrets\": {\n        \"book_url\": \"https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets\",\n        \"book_title\": \"Harry Potter and the Chamber of Secrets\",\n        \"book_image_link\": \"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY475_.jpg\",\n        \"book_id\": \"6969696969696969696969420\",\n        \"book_isbn\": \"42042042069\",\n        \"author_url\": \"https://www.goodreads.com/author/show/1077326.J_K_Rowling\",\n        \"author_name\": \"J.K. Rowling\",\n        \"all_authors\": [\n            {\n                \"name\": \"J.K. Rowling\",\n                \"URL\": \"https://www.goodreads.com/author/show/1077326.J_K_Rowling\"\n            }\n        ],\n        \"book_rating\": 4.42,\n        \"book_rating_num\": 1345200000000,\n        \"book_review_num\": 80500000000,\n        \"similar_books_link\": \"https://www.goodreads.com/book/similar/6231171-harry-potter-and-the-chamber-of-secrets?page=1&per_page=10000\",\n        \"similar_books\": [\n            {\n                \"name\": \"The Titan's Curse (Percy Jackson and the Olympians, #3)\",\n                \"URL\": \"https://www.goodreads.com/book/show/561456.The_Titan_s_Curse\"\n            },\n            {\n                \"name\": \"Fantastic Beasts and Where to Find Them (Hogwarts Library)\",\n                \"URL\": \"https://www.goodreads.com/book/show/41899.Fantastic_Beasts_and_Where_to_Find_Them\"\n            }\n        ]\n    }\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "127.0.0.1:5000/api/book?format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"book"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get posted book",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/book?title=Harry Potter and the Chamber of Secrets&format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"book"
+							],
+							"query": [
+								{
+									"key": "title",
+									"value": "Harry Potter and the Chamber of Secrets"
+								},
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "modify posted book",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"author_name\": \"Harry you're a wizard!\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "127.0.0.1:5000/api/book?title=Harry Potter and the Chamber of Secrets&format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"book"
+							],
+							"query": [
+								{
+									"key": "title",
+									"value": "Harry Potter and the Chamber of Secrets"
+								},
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "delete posted book",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/book?format=html&title=Harry Potter and the Chamber of Secrets",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"book"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								},
+								{
+									"key": "title",
+									"value": "Harry Potter and the Chamber of Secrets"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "test get books and authors",
+			"item": [
+				{
+					"name": "get books",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/books?format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"books"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get authors",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/api/authors?format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"authors"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "test part 3",
+			"item": [
+				{
+					"name": "querry author with most books written",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/query/most-book-authors?format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"query",
+								"most-book-authors"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "querry books with most simliar books",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/query/most-similar-books?format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"query",
+								"most-similar-books"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "vizualize top 5 authors",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/vis/rank-authors?format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"vis",
+								"rank-authors"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "vizualize top 5 books",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "127.0.0.1:5000/vis/rank-books?format=html",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"vis",
+								"rank-books"
+							],
+							"query": [
+								{
+									"key": "format",
+									"value": "html"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
+		}
+	],
+	"protocolProfileBehavior": {}
+}
